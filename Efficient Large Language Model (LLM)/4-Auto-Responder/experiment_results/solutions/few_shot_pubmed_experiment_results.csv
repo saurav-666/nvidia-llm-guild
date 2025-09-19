@@ -1,0 +1,7 @@
+Experiment,Model,Accuracy
+Zero Shot,gpt-8b-000,0.00
+Zero Shot,gpt20b,0.15
+Zero Shot,gpt-43b-001,0.78
+Few Shot,gpt-8b-000,0.00
+Few Shot,gpt20b,0.73
+Few Shot,gpt-43b-001,0.76

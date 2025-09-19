@@ -1,0 +1,9 @@
+Experiment,Model,Accuracy
+0-shot,llama-2-70b,0.62
+0-shot,gpt-43b,0.92
+0-shot,gpt20b,0.00
+0-shot,gpt-8b,0.12
+Few Shot,gpt-8b,0.98
+Few Shot,gpt20b,0.98
+Few Shot,gpt-43b,0.98
+Few Shot,llama-2-70b,0.40
