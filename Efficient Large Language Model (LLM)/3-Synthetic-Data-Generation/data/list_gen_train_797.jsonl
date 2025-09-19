@@ -1,0 +1,797 @@
+{"prompt":"Make a python list of 3 satellites.","completion":"['Cassini', 'Galileo', 'Voyager']"}
+{"prompt":"Make a python list of 5 hopes.","completion":"['hope for the planet', 'hope for the world', 'hope for the future', 'hope for the children', 'hope for the best']"}
+{"prompt":"Make a python list of 7 laptops.","completion":"['HP Spectre', 'Acer Aspire', 'Microsoft Surface', 'Lenovo ThinkPad', 'MacBook Pro', 'Dell XPS', 'Asus ZenBook']"}
+{"prompt":"Make a python list of 7 submarines.","completion":"['Narwhal', 'Shark', 'Swordfish', 'Dolphin', 'Seawolf', 'Nautilus', 'Seal']"}
+{"prompt":"Make a python list of 2 mushrooms.","completion":"['shiitake', 'porcini']"}
+{"prompt":"Make a python list of 1 waves.","completion":"['wave']"}
+{"prompt":"Make a python list of 1 dogs.","completion":"['dog']"}
+{"prompt":"Make a python list of 1 forks.","completion":"['forks']"}
+{"prompt":"Make a python list of 9 frogs.","completion":"['amazon milk frog', 'tomato frog', 'poison dart frog', 'dumpy frog', 'goliath frog', 'red-eyed tree frog', 'pacman frog', 'african dwarf frog', 'bullfrog']"}
+{"prompt":"Make a python list of 8 wishes.","completion":"['a new job', 'a million dollars', 'a new world', 'a new love', 'a new house', 'a new car', 'a new life', 'a new universe']"}
+{"prompt":"Make a python list of 8 telescope arrays.","completion":"['VLBA', 'VLA', 'VLSSs', 'VLSSx', 'VLSSz', 'VLSS', 'ALMA', 'VLSSr']"}
+{"prompt":"Make a python list of 9 grasslands.","completion":"['savanna', 'steppe', 'outback', 'tropical grassland', 'veld', 'temperate grassland', 'prairie', 'pampas', 'tundra']"}
+{"prompt":"Make a python list of 1 fax machines.","completion":"['fax machine']"}
+{"prompt":"Make a python list of 8 clouds.","completion":"['cumulus', 'stratus', 'cumulonimbus', 'cirrus', 'cirrostratus', 'altocumulus', 'cirrocumulus', 'nimbus']"}
+{"prompt":"Make a python list of 2 photocopying machines.","completion":"['Xerox', 'Canon']"}
+{"prompt":"Make a python list of 9 opinions.","completion":"['okay', 'good', 'fantastic', 'mediocre', 'awful', 'excellent', 'terrible', 'indifferent', 'bad']"}
+{"prompt":"Make a python list of 8 clothes.","completion":"['pants', 'coat', 'scarf', 'shoes', 'hat', 'gloves', 'socks', 'shirt']"}
+{"prompt":"Make a python list of 3 molecules.","completion":"['CO2', 'H2O', 'CH4']"}
+{"prompt":"Make a python list of 1 backpacks.","completion":"['backpack']"}
+{"prompt":"Make a python list of 4 TV series.","completion":"['The Wire', 'Breaking Bad', 'The West Wing', 'The Sopranos']"}
+{"prompt":"Make a python list of 6 beaches.","completion":"['Cape Cod', 'Coney Island', 'Honolulu', 'Santa Cruz', 'Miami', 'Cancun']"}
+{"prompt":"Make a python list of 9 coats.","completion":"['jacket', 'parka', 'hoodie', 'sweater', 'raincoat', 'coat', 'windbreaker', 'sweatshirt', 'overcoat']"}
+{"prompt":"Make a python list of 8 flowers.","completion":"['tulip', 'lily', 'lotus', 'orchid', 'sunflower', 'daisy', 'daffodil', 'rose']"}
+{"prompt":"Make a python list of 2 apartments.","completion":"['one bedroom', 'studio']"}
+{"prompt":"Make a python list of 1 philosophical systems.","completion":"['stoicism']"}
+{"prompt":"Make a python list of 8 microphone arrays.","completion":"['hypercardioid', 'shotgun', 'figure-8', 'supercardioid', 'omnidirectional', 'bidirectional', 'subcardioid', 'cardioid']"}
+{"prompt":"Make a python list of 6 clocks.","completion":"['pendulum', 'sundial', 'water', 'analog', 'digital', 'atomic']"}
+{"prompt":"Make a python list of 9 skateboards.","completion":"['longboard', 'cruiser', 'freeride', 'old school', 'downhill', 'freestyle', 'fish', 'mini', 'penny']"}
+{"prompt":"Make a python list of 8 tables.","completion":"['table6', 'table5', 'table2', 'table4', 'table3', 'table7', 'table1', 'table8']"}
+{"prompt":"Make a python list of 9 printers.","completion":"['Canon', 'Kyocera', 'Lexmark', 'Dell', 'Epson', 'HP', 'Ricoh', 'Xerox', 'Brother']"}
+{"prompt":"Make a python list of 1 sweaters.","completion":"['sweater']"}
+{"prompt":"Make a python list of 3 cars.","completion":"['Ford', 'Toyota', 'Chevy']"}
+{"prompt":"Make a python list of 9 helicopters.","completion":"['Boeing AH-64 Apache', 'Sikorsky SH-60 Seahawk', 'Boeing CH-47 Chinook', 'Boeing V-22 Osprey', 'Sikorsky S-61', 'Bell UH-1 Iroquois', 'Bell 206', 'Bell OH-58 Kiowa', 'Sikorsky UH-60 Black Hawk']"}
+{"prompt":"Make a python list of 7 modems.","completion":"['fiber', 'satellite', 'microwave', 'DSL', 'cable', 'cellular', 'dial-up']"}
+{"prompt":"Make a python list of 5 umbrellas.","completion":"['yellow', 'green', 'blue', 'purple', 'red']"}
+{"prompt":"Make a python list of 3 fish.","completion":"['salmon', 'catfish', 'trout']"}
+{"prompt":"Make a python list of 3 cameras.","completion":"['Nikon', 'Sony', 'Canon']"}
+{"prompt":"Make a python list of 7 socks.","completion":"['purple', 'yellow', 'orange', 'black', 'red', 'green', 'blue']"}
+{"prompt":"Make a python list of 4 pots.","completion":"['pan', 'kettle', 'pot', 'cauldron']"}
+{"prompt":"Make a python list of 5 magazines.","completion":"['The Atlantic', 'The Economist', 'The New Yorker', 'The New York Times', 'The Wall Street Journal']"}
+{"prompt":"Make a python list of 7 inspirations.","completion":"['Leonardo', 'Van Gogh', 'Dali', 'Picasso', 'Einstein', 'Mozart', 'Tesla']"}
+{"prompt":"Make a python list of 7 plants.","completion":"['daisy', 'rose', 'fern', 'cactus', 'mushroom', 'sunflower', 'moss']"}
+{"prompt":"Make a python list of 2 feelings.","completion":"['sad', 'happy']"}
+{"prompt":"Make a python list of 2 keys.","completion":"['key2', 'key1']"}
+{"prompt":"Make a python list of 3 principles.","completion":"['principle of least privilege', 'principle of least effort', 'principle of least astonishment']"}
+{"prompt":"Make a python list of 5 grasses.","completion":"['bamboo', 'rye', 'crabgrass', 'barley', 'wheat']"}
+{"prompt":"Make a python list of 6 buses.","completion":"['bus 6', 'bus 4', 'bus 5', 'bus 2', 'bus 3', 'bus 1']"}
+{"prompt":"Make a python list of 3 plains.","completion":"['steppe', 'prairie', 'savanna']"}
+{"prompt":"Make a python list of 6 programming languages.","completion":"['C++', 'Ruby', 'C', 'Go', 'Java', 'Python']"}
+{"prompt":"Make a python list of 3 rocks.","completion":"['sandstone', 'granite', 'limestone']"}
+{"prompt":"Make a python list of 7 pants.","completion":"['shorts', 'overalls', 'slacks', 'khakis', 'leggings', 'sweatpants', 'jeans']"}
+{"prompt":"Make a python list of 5 desks.","completion":"['table', 'desk', 'workstation', 'writing table', 'workbench']"}
+{"prompt":"Make a python list of 8 boots.","completion":"['blue', 'yellow', 'white', 'orange', 'green', 'black', 'red', 'purple']"}
+{"prompt":"Make a python list of 2 coral reefs.","completion":"['Great Barrier Reef', 'Florida Reef']"}
+{"prompt":"Make a python list of 2 bottles.","completion":"['soda', 'water']"}
+{"prompt":"Make a python list of 4 monitors.","completion":"['Dell', 'LG', 'Samsung', 'HP']"}
+{"prompt":"Make a python list of 3 sensations.","completion":"['touch', 'sound', 'sight']"}
+{"prompt":"Make a python list of 3 video games.","completion":"['Fortnite', 'Minecraft', 'Pokemon']"}
+{"prompt":"Make a python list of 3 assumptions.","completion":"['assumption 2', 'assumption 1', 'assumption 3']"}
+{"prompt":"Make a python list of 7 robots.","completion":"['R2D2', 'C3PO', 'TARS', 'Marvin', 'Wall-E', 'Bender', 'Rosie']"}
+{"prompt":"Make a python list of 6 fears.","completion":"['drowning', 'snakes', 'darkness', 'clowns', 'heights', 'spiders']"}
+{"prompt":"Make a python list of 1 bikes.","completion":"['bike']"}
+{"prompt":"Make a python list of 2 conjectures.","completion":"['The sum of the first n odd numbers is n^2', 'The sum of the first n even numbers is n(n+1)']"}
+{"prompt":"Make a python list of 4 hats.","completion":"['fedora', 'top hat', 'beanie', 'cowboy hat']"}
+{"prompt":"Make a python list of 4 scientists.","completion":"['Newton', 'Curie', 'Einstein', 'Tesla']"}
+{"prompt":"Make a python list of 2 jackets.","completion":"['leather', 'denim']"}
+{"prompt":"Make a python list of 4 routers.","completion":"['Arista', 'Cisco', 'Juniper', 'Huawei']"}
+{"prompt":"Make a python list of 6 bicycles.","completion":"['tandem', 'penny farthing', 'road bike', 'recumbent', 'cruiser', 'mountain bike']"}
+{"prompt":"Make a python list of 7 drones.","completion":"['drone2', 'drone4', 'drone6', 'drone7', 'drone5', 'drone3', 'drone1']"}
+{"prompt":"Make a python list of 1 movies.","completion":"['The Matrix']"}
+{"prompt":"Make a python list of 1 fridges.","completion":"['fridge']"}
+{"prompt":"Make a python list of 5 screens.","completion":"['tv', 'phone', 'tablet', 'desktop', 'laptop']"}
+{"prompt":"Make a python list of 2 minerals.","completion":"['diamond', 'gold']"}
+{"prompt":"Make a python list of 2 cords.","completion":"['(3, 4)', '(1, 2)']"}
+{"prompt":"Make a python list of 3 hubs.","completion":"['New York', 'London', 'San Francisco']"}
+{"prompt":"Make a python list of 6 sandwiches.","completion":"['turkey', 'cheese', 'tuna', 'egg salad', 'peanut butter', 'ham']"}
+{"prompt":"Make a python list of 3 tundra.","completion":"['polar bear', 'snowy owl', 'caribou']"}
+{"prompt":"Make a python list of 7 dishes.","completion":"['pasta', 'salad', 'curry', 'soup', 'pizza', 'sushi', 'ramen']"}
+{"prompt":"Make a python list of 8 fishes.","completion":"['salmon', 'trout', 'carp', 'catfish', 'pike', 'cod', 'bass', 'perch']"}
+{"prompt":"Make a python list of 1 ice caps.","completion":"['Antarctica']"}
+{"prompt":"Make a python list of 7 microscopes.","completion":"['digital microscope', 'microscope', 'Scanning Tunneling Microscope', 'Dielectric Force Microscope', 'electron microscope', 'obselete paper microscope', 'Scanning Auger Microscope']"}
+{"prompt":"Make a python list of 7 TVs.","completion":"['LG', 'Vizio', 'Toshiba', 'Sony', 'Sharp', 'Samsung', 'Panasonic']"}
+{"prompt":"Make a python list of 3 insects.","completion":"['butterfly', 'ant', 'bee']"}
+{"prompt":"Make a python list of 5 thoughts.","completion":"[\"I'm tired\", \"I'm happy\", \"I'm hungry\", \"I'm angry\", \"I'm sad\"]"}
+{"prompt":"Make a python list of 4 fantasies.","completion":"['invisibility', 'teleportation', 'flying', 'telepathy']"}
+{"prompt":"Make a python list of 9 telescopes.","completion":"['Hubble', 'VLA', 'ALMA', 'JWST', 'Keck', 'VLT', 'TMT', 'GMT', 'LBT']"}
+{"prompt":"Make a python list of 1 chocolate bars.","completion":"[\"Hershey's\"]"}
+{"prompt":"Make a python list of 2 sports.","completion":"['soccer', 'basketball']"}
+{"prompt":"Make a python list of 5 foods.","completion":"['pizza', 'sushi', 'pasta', 'soup', 'tacos']"}
+{"prompt":"Make a python list of 3 desires.","completion":"['money', 'power', 'love']"}
+{"prompt":"Make a python list of 2 switches.","completion":"['off', 'on']"}
+{"prompt":"Make a python list of 9 drinks.","completion":"['beer', 'coffee', 'wine', 'sports drink', 'milk', 'juice', 'tea', 'water', 'soda']"}
+{"prompt":"Make a python list of 9 speakers.","completion":"['Jerry', 'Jessica', 'Jill', 'Jeff', 'Judy', 'Jim', 'Jenny', 'Jane', 'Joe']"}
+{"prompt":"Make a python list of 3 buildings.","completion":"['apartment', 'house', 'condo']"}
+{"prompt":"Make a python list of 8 emotions.","completion":"['angry', 'sad', 'happy', 'disgusted', 'afraid', 'confused', 'neutral', 'surprised']"}
+{"prompt":"Make a python list of 8 rockets.","completion":"['proton', 'h-2a', 'long march 5', 'falcon 9', 'falcon heavy', 'delta iv', 'soyuz', 'atlas v']"}
+{"prompt":"Make a python list of 2 spaceships.","completion":"['Millennium Falcon', 'Serenity']"}
+{"prompt":"Make a python list of 5 glaciers.","completion":"['Denali National Park', 'Glacier National Park', 'Kenai Fjords National Park', 'Wrangell-St. Elias National Park', 'Glacier Bay National Park']"}
+{"prompt":"Make a python list of 1 knives.","completion":"['knife']"}
+{"prompt":"Make a python list of 5 fruit.","completion":"['apple', 'orange', 'pear', 'peach', 'banana']"}
+{"prompt":"Make a python list of 5 pairs of shoes.","completion":"['sneakers', 'clogs', 'boots', 'sandals', 'loafers']"}
+{"prompt":"Make a python list of 8 spoons.","completion":"['soup spoon', 'spork', 'spatula', 'ladle', 'tablespoon', 'teaspoon', 'scoop', 'slotted spoon']"}
+{"prompt":"Make a python list of 2 cables.","completion":"['HDMI', 'USB']"}
+{"prompt":"Make a python list of 2 senses.","completion":"['smell', 'sight']"}
+{"prompt":"Make a python list of 9 machines.","completion":"['vacuum cleaner', 'dishwasher', 'computer', 'refrigerator', 'lawn mower', 'sewing machine', 'car', 'washing machine', 'microwave']"}
+{"prompt":"Make a python list of 9 laws.","completion":"['law of conservation of electric charge', 'law of conservation of angular momentum', 'law of conservation of momentum', 'law of conservation of mass', 'law of conservation of lepton number', 'law of conservation of charge', 'law of conservation of parity', 'law of conservation of energy', 'law of conservation of linear momentum']"}
+{"prompt":"Make a python list of 6 shoes.","completion":"['sandals', 'boots', 'sneakers', 'heels', 'loafers', 'clogs']"}
+{"prompt":"Make a python list of 7 continents.","completion":"['Australia', 'Europe', 'South America', 'North America', 'Asia', 'Antarctica', 'Africa']"}
+{"prompt":"Make a python list of 6 canyons.","completion":"['Canyonlands', 'Black Canyon', 'Bryce Canyon', 'Antelope Canyon', 'Grand Canyon', 'Canyon de Chelly']"}
+{"prompt":"Make a python list of 7 scarfs.","completion":"['pink', 'yellow', 'blue', 'red', 'orange', 'purple', 'green']"}
+{"prompt":"Make a python list of 5 forests.","completion":"['Boreal', 'Temperate', 'Taiga', 'Rainforest', 'Amazon']"}
+{"prompt":"Make a python list of 7 waterfalls.","completion":"['Kaieteur Falls', 'Angel Falls', 'Yosemite Falls', 'Niagara Falls', 'Victoria Falls', 'Iguazu Falls', 'Yellowstone Falls']"}
+{"prompt":"Make a python list of 6 oceans.","completion":"['Southern', 'Atlantic', 'Pacific', 'Mediterranean', 'Arctic', 'Indian']"}
+{"prompt":"Make a python list of 5 worldviews.","completion":"['dualism', 'materialism', 'pluralism', 'idealism', 'monism']"}
+{"prompt":"Make a python list of 5 counties.","completion":"['Alameda', 'San Mateo', 'San Francisco', 'Santa Clara', 'Contra Costa']"}
+{"prompt":"Make a python list of 2 turtles.","completion":"['turtle', 'tortoise']"}
+{"prompt":"Make a python list of 2 jewelry.","completion":"['necklace', 'ring']"}
+{"prompt":"Make a python list of 1 keyboards.","completion":"['keyboard']"}
+{"prompt":"Make a python list of 3 elements.","completion":"['helium', 'hydrogen', 'lithium']"}
+{"prompt":"Make a python list of 2 sunglasses.","completion":"['Ray-Ban', 'Oakley']"}
+{"prompt":"Make a python list of 5 animals.","completion":"['cat', 'elephant', 'dog', 'horse', 'spotted owl']"}
+{"prompt":"Make a python list of 4 t-shirts.","completion":"['yellow', 'red', 'blue', 'green']"}
+{"prompt":"Make a python list of 2 attitudes.","completion":"['positive', 'negative']"}
+{"prompt":"Make a python list of 4 people.","completion":"['John', 'Jane', 'Jill', 'Joe']"}
+{"prompt":"Make a python list of 3 books.","completion":"['The Three Body Problem', 'Dandelion Wine', 'Deep Learning and the Game of Go']"}
+{"prompt":"Make a python list of 4 motorbikes.","completion":"['Honda', 'Suzuki', 'Yamaha', 'Harley Davidson']"}
+{"prompt":"Make a python list of 5 headphones.","completion":"['Beats', 'Bose', 'Sennheiser', 'Bang & Olufsen', 'Sony']"}
+{"prompt":"Make a python list of 1 experiences.","completion":"['experience']"}
+{"prompt":"Make a python list of 4 pancakes.","completion":"['banana', 'plain', 'chocolate chip', 'blueberry']"}
+{"prompt":"Make a python list of 6 pens.","completion":"['pen', 'crayon', 'chalk', 'pencil', 'marker', 'quill']"}
+{"prompt":"Make a python list of 2 wetlands.","completion":"['marsh', 'swamp']"}
+{"prompt":"Make a python list of 7 computers.","completion":"['Linux', 'Chromebook', 'Mac', 'iPhone', 'Android', 'iPad', 'PC']"}
+{"prompt":"Make a python list of 4 goals.","completion":"['lose weight', 'get a girlfriend', 'get a job', 'learn to code']"}
+{"prompt":"Make a python list of 4 refrigerators.","completion":"['Samsung', 'LG', 'Whirlpool', 'Frigidaire']"}
+{"prompt":"Make a python list of 6 copiers.","completion":"['xerox', 'duplicator', 'spirit duplicator', 'photocopier', 'ditto', 'mimeograph']"}
+{"prompt":"Make a python list of 1 games.","completion":"['chess']"}
+{"prompt":"Make a python list of 1 guitars.","completion":"['Fender Stratocaster']"}
+{"prompt":"Make a python list of 8 amphibians.","completion":"['cave salamander', 'frog', 'hellbender', 'toad', 'salamander', 'caecilian', 'newt', 'axolotl']"}
+{"prompt":"Make a python list of 3 ships.","completion":"['USS Voyager', 'USS Discovery', 'USS Enterprise']"}
+{"prompt":"Make a python list of 7 dreams.","completion":"['being naked in public', 'being trapped', 'falling', 'being chased', 'being late', 'being lost', 'flying']"}
+{"prompt":"Make a python list of 1 radiators.","completion":"['radiator']"}
+{"prompt":"Make a python list of 9 states.","completion":"['Alaska', 'Colorado', 'California', 'Arkansas', 'Connecticut', 'Delaware', 'Florida', 'Arizona', 'Alabama']"}
+{"prompt":"Make a python list of 1 doors.","completion":"['door']"}
+{"prompt":"Make a python list of 8 furniture.","completion":"['bed', 'armchair', 'couch', 'desk', 'chair', 'ottoman', 'sofa', 'table']"}
+{"prompt":"Make a python list of 5 metals.","completion":"['iron', 'titanium', 'gold', 'silver', 'copper']"}
+{"prompt":"Make a python list of 3 mugs.","completion":"['mug', 'teacup', 'cup']"}
+{"prompt":"Make a python list of 9 crayons.","completion":"['black', 'purple', 'brown', 'orange', 'green', 'blue', 'yellow', 'red', 'white']"}
+{"prompt":"Make a python list of 2 coins.","completion":"['penny', 'nickel']"}
+{"prompt":"Make a python list of 2 pies.","completion":"['apple', 'pumpkin']"}
+{"prompt":"Make a python list of 3 telephones.","completion":"['cell', 'smart', 'rotary']"}
+{"prompt":"Make a python list of 1 philosophies.","completion":"['stoicism']"}
+{"prompt":"Make a python list of 4 bridges.","completion":"['Brooklyn Bridge', 'London Bridge', 'Golden Gate Bridge', 'Sydney Harbour Bridge']"}
+{"prompt":"Make a python list of 9 servers.","completion":"['server4', 'server5', 'server9', 'server2', 'server7', 'server3', 'server1', 'server6', 'server8']"}
+{"prompt":"Make a python list of 8 scanners.","completion":"['scanner 5', 'scanner 2', 'scanner 8', 'scanner 1', 'scanner 7', 'scanner 6', 'scanner 4', 'scanner 3']"}
+{"prompt":"Make a python list of 2 mice.","completion":"['Mickey', 'Minnie']"}
+{"prompt":"Make a python list of 6 tablets.","completion":"['Nexus 7', 'Kindle Fire', 'Surface', 'Nook', 'Galaxy Tab', 'iPad']"}
+{"prompt":"Make a python list of 5 televisions.","completion":"['TV', 'boob tube', 'telly', 'television', 'television set']"}
+{"prompt":"Make a python list of 2 trees.","completion":"['oak', 'maple']"}
+{"prompt":"Make a python list of 2 birds.","completion":"['robin', 'sparrow']"}
+{"prompt":"Make a python list of 4 computer arrays.","completion":"['list', 'set', 'dictionary', 'tuple']"}
+{"prompt":"Make a python list of 9 musicians.","completion":"['Mozart', 'Liszt', 'Brahms', 'Handel', 'Chopin', 'Beethoven', 'Bach', 'Schubert', 'Schumann']"}
+{"prompt":"Make a python list of 2 impressions.","completion":"['Donald Trump', 'Hillary Clinton']"}
+{"prompt":"Make a python list of 6 roads.","completion":"['lane', 'boulevard', 'road', 'highway', 'avenue', 'street']"}
+{"prompt":"Make a python list of 9 phones.","completion":"['Lumia', 'iPhone', 'Galaxy', 'Moto', 'Essential', 'OnePlus', 'Pixel', 'Droid', 'Nexus']"}
+{"prompt":"Make a python list of 9 rainforests.","completion":"['North America', 'Amazon', 'Southeast Asia', 'Madagascar', 'Central America', 'Oceania', 'West Africa', 'New Guinea', 'Congo']"}
+{"prompt":"Make a python list of 8 languages.","completion":"['Spanish', 'Japanese', 'English', 'Russian', 'French', 'Chinese', 'German', 'Italian']"}
+{"prompt":"Make a python list of 3 lizards.","completion":"['gecko', 'chameleon', 'iguana']"}
+{"prompt":"Make a python list of 5 deserts.","completion":"['Sahara', 'Kalahari', 'Namib', 'Atacama', 'Gobi']"}
+{"prompt":"Make a python list of 7 rivers.","completion":"['Nile', 'Mississippi', 'Ganges', 'Congo', 'Yellow', 'Yangtze', 'Amazon']"}
+{"prompt":"Make a python list of 1 speculations.","completion":"['The world is flat']"}
+{"prompt":"Make a python list of 3 soups.","completion":"['miso', 'tomato', 'chicken noodle']"}
+{"prompt":"Make a python list of 3 mammals.","completion":"['cat', 'human', 'dog']"}
+{"prompt":"Make a python list of 7 sculptures.","completion":"['The Kiss', 'Venus de Milo', 'The Thinker', 'The Dying Gaul', 'David', 'The Winged Victory of Samothrace', 'The Discus Thrower']"}
+{"prompt":"Make a python list of 2 perceptions.","completion":"['sound', 'sight']"}
+{"prompt":"Make a python list of 5 sneakers.","completion":"['Adidas', 'Puma', 'Reebok', 'New Balance', 'Nike']"}
+{"prompt":"Make a python list of 1 films.","completion":"['The Matrix']"}
+{"prompt":"Make a python list of 6 places.","completion":"['park', 'library', 'home', 'work', 'school', 'gym']"}
+{"prompt":"Make a python list of 4 concepts.","completion":"['concept', 'theory', 'idea', 'notion']"}
+{"prompt":"Make a python list of 8 reptiles.","completion":"['lizard', 'chameleon', 'gecko', 'iguana', 'alligator', 'snake', 'turtle', 'crocodile']"}
+{"prompt":"Make a python list of 8 cities.","completion":"['Beijing', 'New York', 'Paris', 'Sydney', 'Tokyo', 'Rio de Janeiro', 'London', 'Moscow']"}
+{"prompt":"Make a python list of 5 plates.","completion":"['salad plate', 'saucer', 'soup bowl', 'dessert plate', 'dinner plate']"}
+{"prompt":"Make a python list of 6 mindsets.","completion":"['fixed', 'growth', 'curious', 'open', 'bored', 'closed']"}
+{"prompt":"Make a python list of 2 houses.","completion":"['home', 'house']"}
+{"prompt":"Make a python list of 1 purses.","completion":"['purse']"}
+{"prompt":"Make a python list of 6 perspectives.","completion":"['limited', 'third person', 'second person', 'first person', 'objective', 'omniscient']"}
+{"prompt":"Make a python list of 3 truths.","completion":"['the sun is hot', 'the sky is blue', 'the grass is green']"}
+{"prompt":"Make a python list of 3 memories.","completion":"['first day of school', 'first time I saw the ocean', 'first kiss']"}
+{"prompt":"Make a python list of 3 fruits.","completion":"['apple', 'banana', 'orange']"}
+{"prompt":"Make a python list of 2 glasses.","completion":"['milk', 'water']"}
+{"prompt":"Make a python list of 4 outlooks.","completion":"['rainy', 'cloudy', 'snowy', 'sunny']"}
+{"prompt":"Make a python list of 7 paintings.","completion":"['The Persistence of Memory', 'The Last Supper', 'The Sistine Chapel', 'The Scream', 'The Starry Night', 'The Birth of Venus', 'The Mona Lisa']"}
+{"prompt":"Make a python list of 1 pizzas.","completion":"['pepperoni']"}
+{"prompt":"Make a python list of 9 photographs.","completion":"['landscape', 'action', 'street', 'wildlife', 'still life', 'portrait', 'macro', 'abstract', 'panorama']"}
+{"prompt":"Make a python list of 5 mountains.","completion":"['Mt. Whitney', 'Mt. Everest', 'Mt. McKinley', 'Mt. Fuji', 'Mt. Kilimanjaro']"}
+{"prompt":"Make a python list of 4 couches.","completion":"['loveseat', 'chaise', 'sofa', 'couch']"}
+{"prompt":"Make a python list of 8 countries.","completion":"['Mexico', 'Canada', 'USA', 'Dominican Republic', 'Cuba', 'Puerto Rico', 'Haiti', 'Jamaica']"}
+{"prompt":"Make a python list of 2 washing machines.","completion":"['Samsung', 'LG']"}
+{"prompt":"Make a python list of 7 arachnids.","completion":"['spider', 'mite', 'tick', 'harvestman', 'scorpion', 'pseudoscorpion', 'whip scorpion']"}
+{"prompt":"Make a python list of 7 cats.","completion":"['Snowflake', 'Snowball', 'Snowball V', 'Snowball II', 'Snowy', 'Snowball III', 'Snowball IV']"}
+{"prompt":"Make a python list of 6 imaginings.","completion":"['a world without fear', 'a world without hunger', 'a world without disease', 'a world without hate', 'a world without war', 'a world without poverty']"}
+{"prompt":"Make a python list of 5 boats.","completion":"['motorboat', 'yacht', 'rowboat', 'cruise ship', 'sailboat']"}
+{"prompt":"Make a python list of 4 lights.","completion":"['yellow', 'red', 'green', 'blue']"}
+{"prompt":"Make a python list of 7 cranes.","completion":"['brolga', 'sandhill', 'himalayan', 'black-necked', 'demoiselle', 'blue', 'whooping']"}
+{"prompt":"Make a python list of 5 beliefs.","completion":"['I believe in the power of the human mind', 'I believe in the power of the human spirit', 'I believe in the power of the human body', 'I believe in the power of the human heart', 'I believe in the power of the human soul']"}
+{"prompt":"Make a python list of 8 microphones.","completion":"['Shure SM58', 'Electro-Voice RE20', 'Shure SM7B', 'Audio Technica AT2020', 'Rode NT1', 'Sennheiser MD421', 'AKG C414', 'Neumann U87']"}
+{"prompt":"Make a python list of 9 newspapers.","completion":"['The Los Angeles Times', 'The San Francisco Chronicle', 'The Houston Chronicle', 'The Washington Post', 'The Boston Globe', 'The Seattle Times', 'The Chicago Tribune', 'The New York Times', 'The Wall Street Journal']"}
+{"prompt":"Make a python list of 3 mollusks.","completion":"['snail', 'squid', 'octopus']"}
+{"prompt":"Make a python list of 4 papers.","completion":"['paper2', 'paper4', 'paper3', 'paper1']"}
+{"prompt":"Make a python list of 3 stereos.","completion":"['Bose', 'Sony', 'JBL']"}
+{"prompt":"Make a python list of 4 lakes.","completion":"['Lake Michigan', 'Lake Erie', 'Lake Huron', 'Lake Superior']"}
+{"prompt":"Make a python list of 7 trucks.","completion":"['Chevy', 'Nissan', 'Toyota', 'Mazda', 'Honda', 'Ford', 'Dodge']"}
+{"prompt":"Make a python list of 2 satellites.","completion":"['Voyager 1', 'Hubble']"}
+{"prompt":"Make a python list of 5 hopes.","completion":"['hope for the best', 'hope for the future', 'hope for the children', 'hope for the planet', 'hope for the world']"}
+{"prompt":"Make a python list of 1 laptops.","completion":"['MacBook Pro']"}
+{"prompt":"Make a python list of 2 submarines.","completion":"['Nautilus', 'Narwhal']"}
+{"prompt":"Make a python list of 6 mushrooms.","completion":"['chicken of the woods', 'oyster', 'hen of the woods', 'morel', 'shiitake', 'porcini']"}
+{"prompt":"Make a python list of 6 waves.","completion":"['sawtooth', 'square', 'cosine', 'triangle', 'noise', 'sine']"}
+{"prompt":"Make a python list of 4 dogs.","completion":"['poodle', 'labrador', 'chihuahua', 'golden retriever']"}
+{"prompt":"Make a python list of 4 frogs.","completion":"['goliath frog', 'red-eyed tree frog', 'poison dart frog', 'bullfrog']"}
+{"prompt":"Make a python list of 5 wishes.","completion":"['a new house', 'a million dollars', 'a new job', 'a new car', 'world peace']"}
+{"prompt":"Make a python list of 3 telescope arrays.","completion":"['VLA', 'ALMA', 'SKA']"}
+{"prompt":"Make a python list of 9 grasslands.","completion":"['pampas', 'tropical grassland', 'savanna', 'temperate grassland', 'prairie', 'outback', 'steppe', 'veld', 'tundra']"}
+{"prompt":"Make a python list of 3 fax machines.","completion":"['fax machine 2', 'fax machine 3', 'fax machine 1']"}
+{"prompt":"Make a python list of 7 clouds.","completion":"['cirrocumulus', 'cirrus', 'nimbus', 'cirrostratus', 'cumulus', 'cumulonimbus', 'stratus']"}
+{"prompt":"Make a python list of 9 photocopying machines.","completion":"['Konica Minolta', 'Kyocera', 'Toshiba', 'HP', 'Xerox', 'Brother', 'Canon', 'Sharp', 'Ricoh']"}
+{"prompt":"Make a python list of 3 clothes.","completion":"['pants', 'shirt', 'socks']"}
+{"prompt":"Make a python list of 8 molecules.","completion":"['H2O', 'HCl', 'N2', 'O2', 'CO2', 'H2S', 'CH4', 'H2']"}
+{"prompt":"Make a python list of 7 backpacks.","completion":"['yellow', 'black', 'orange', 'green', 'blue', 'purple', 'red']"}
+{"prompt":"Make a python list of 7 beaches.","completion":"['Santa Cruz', 'Hermosa', 'Huntington', 'Venice', 'Santa Monica', 'Newport', 'Laguna']"}
+{"prompt":"Make a python list of 7 coats.","completion":"['sweater', 'raincoat', 'jacket', 'windbreaker', 'coat', 'hoodie', 'parka']"}
+{"prompt":"Make a python list of 1 bowls.","completion":"['bowl']"}
+{"prompt":"Make a python list of 2 theories.","completion":"['loop quantum gravity', 'string theory']"}
+{"prompt":"Make a python list of 4 philosophical systems.","completion":"['existentialism', 'epicureanism', 'utilitarianism', 'stoicism']"}
+{"prompt":"Make a python list of 3 microphone arrays.","completion":"['omnidirectional', 'bidirectional', 'cardioid']"}
+{"prompt":"Make a python list of 6 clocks.","completion":"['analog', 'digital', 'pendulum', 'water', 'atomic', 'sundial']"}
+{"prompt":"Make a python list of 7 skateboards.","completion":"['longboard', 'fish', 'cruiser', 'mini', 'penny', 'freestyle', 'old school']"}
+{"prompt":"Make a python list of 2 leaves.","completion":"['oak', 'maple']"}
+{"prompt":"Make a python list of 9 printers.","completion":"['Canon', 'Brother', 'Epson', 'Lexmark', 'HP', 'Kyocera', 'Xerox', 'Dell', 'Ricoh']"}
+{"prompt":"Make a python list of 6 cars.","completion":"['Ford', 'Nissan', 'Volvo', 'Honda', 'Chevy', 'Toyota']"}
+{"prompt":"Make a python list of 6 helicopters.","completion":"['Sikorsky S-61', 'Boeing CH-47 Chinook', 'Bell UH-1 Iroquois', 'Boeing AH-64 Apache', 'Bell 206', 'Sikorsky UH-60 Black Hawk']"}
+{"prompt":"Make a python list of 9 modems.","completion":"['fiber', 'laser', 'satellite', 'dial-up', 'microwave', 'wormhole', 'cable', 'quantum', 'DSL']"}
+{"prompt":"Make a python list of 2 fish.","completion":"['trout', 'salmon']"}
+{"prompt":"Make a python list of 8 cameras.","completion":"['Fuji', 'Hasselblad', 'Canon', 'Nikon', 'Sony', 'Olympus', 'Pentax', 'Leica']"}
+{"prompt":"Make a python list of 5 snakes.","completion":"['cobra', 'viper', 'boa', 'rattlesnake', 'python']"}
+{"prompt":"Make a python list of 9 socks.","completion":"['white', 'black', 'green', 'orange', 'yellow', 'blue', 'purple', 'red', 'brown']"}
+{"prompt":"Make a python list of 3 magazines.","completion":"['The Atlantic', 'The New Yorker', 'The Economist']"}
+{"prompt":"Make a python list of 9 inspirations.","completion":"['food', 'music', 'friends', 'movies', 'art', 'love', 'family', 'books', 'nature']"}
+{"prompt":"Make a python list of 4 crustaceans.","completion":"['shrimp', 'lobster', 'crab', 'crayfish']"}
+{"prompt":"Make a python list of 7 feelings.","completion":"['sad', 'angry', 'afraid', 'surprised', 'neutral', 'disgusted', 'happy']"}
+{"prompt":"Make a python list of 1 principles.","completion":"['principles']"}
+{"prompt":"Make a python list of 5 grasses.","completion":"['bamboo', 'crabgrass', 'barley', 'wheat', 'rye']"}
+{"prompt":"Make a python list of 9 plains.","completion":"['prairie', 'puszta', 'savanna', 'steppe', 'pampas', 'tundra', 'pampa', 'downs', 'veld']"}
+{"prompt":"Make a python list of 7 programming languages.","completion":"['Ruby', 'Python', 'Go', 'C++', 'Java', 'C', 'R']"}
+{"prompt":"Make a python list of 5 rocks.","completion":"['granite', 'sandstone', 'limestone', 'marble', 'basalt']"}
+{"prompt":"Make a python list of 6 pants.","completion":"['jeans', 'shorts', 'sweatpants', 'leggings', 'khakis', 'slacks']"}
+{"prompt":"Make a python list of 6 desks.","completion":"['table', 'writing table', 'desk', 'work table', 'workbench', 'workstation']"}
+{"prompt":"Make a python list of 4 coral reefs.","completion":"['Florida Reef', 'New Caledonia Barrier Reef', 'Belize Barrier Reef', 'Great Barrier Reef']"}
+{"prompt":"Make a python list of 9 bottles.","completion":"['bottle of whiskey', 'bottle of beer', 'bottle of gin', 'bottle of scotch', 'bottle of brandy', 'bottle of wine', 'bottle of vodka', 'bottle of rum', 'bottle of tequila']"}
+{"prompt":"Make a python list of 2 monitors.","completion":"['HP', 'Dell']"}
+{"prompt":"Make a python list of 4 fears.","completion":"['clowns', 'spiders', 'heights', 'public speaking']"}
+{"prompt":"Make a python list of 6 cups.","completion":"['soup', 'coffee', 'tea', 'water', 'juice', 'milk']"}
+{"prompt":"Make a python list of 4 values.","completion":"[3, 2, 1, 4]"}
+{"prompt":"Make a python list of 8 hats.","completion":"['top hat', 'cowboy hat', 'sombrero', 'beanie', 'bowler', 'fedora', 'panama hat', 'beret']"}
+{"prompt":"Make a python list of 2 volcanoes.","completion":"['Mount Vesuvius', 'Mount St. Helens']"}
+{"prompt":"Make a python list of 7 scientists.","completion":"['Einstein', 'Newton', 'Tesla', 'Faraday', 'Curie', 'Galileo', 'Darwin']"}
+{"prompt":"Make a python list of 7 jackets.","completion":"['black', 'red', 'yellow', 'green', 'blue', 'orange', 'purple']"}
+{"prompt":"Make a python list of 7 bicycles.","completion":"['cruiser', 'road bike', 'unicycle', 'mountain bike', 'recumbent', 'tandem', 'penny farthing']"}
+{"prompt":"Make a python list of 3 islands.","completion":"['Bermuda', 'Hawaii', 'Cuba']"}
+{"prompt":"Make a python list of 2 drones.","completion":"['DJI Mavic Pro', 'DJI Phantom 4']"}
+{"prompt":"Make a python list of 3 movies.","completion":"['The Matrix Reloaded', 'The Matrix', 'The Matrix Revolutions']"}
+{"prompt":"Make a python list of 2 screens.","completion":"['iPad', 'iPhone']"}
+{"prompt":"Make a python list of 7 minerals.","completion":"['lead', 'gold', 'copper', 'tin', 'silver', 'iron', 'mercury']"}
+{"prompt":"Make a python list of 9 cords.","completion":"['orange', 'yellow', 'brown', 'red', 'green', 'black', 'blue', 'purple', 'pink']"}
+{"prompt":"Make a python list of 8 hubs.","completion":"['Uranus', 'Venus', 'Earth', 'Jupiter', 'Mercury', 'Mars', 'Saturn', 'Sun']"}
+{"prompt":"Make a python list of 1 sandwiches.","completion":"['peanut butter and jelly']"}
+{"prompt":"Make a python list of 6 trains.","completion":"['maglev train', 'steam train', 'subway', 'light rail', 'bullet train', 'monorail']"}
+{"prompt":"Make a python list of 5 dishes.","completion":"['ramen', 'sushi', 'pizza', 'pasta', 'curry']"}
+{"prompt":"Make a python list of 2 fishes.","completion":"['salmon', 'trout']"}
+{"prompt":"Make a python list of 7 ice caps.","completion":"['Arctic', 'Greenland', 'West Greenland', 'East Greenland', 'Antarctic', 'West Antarctic', 'East Antarctic']"}
+{"prompt":"Make a python list of 2 microscopes.","completion":"['electron microscope', 'light microscope']"}
+{"prompt":"Make a python list of 6 TVs.","completion":"['Toshiba', 'LG', 'Sharp', 'Samsung', 'Panasonic', 'Sony']"}
+{"prompt":"Make a python list of 2 insects.","completion":"['bee', 'ant']"}
+{"prompt":"Make a python list of 2 thoughts.","completion":"[\"I'm hungry\", \"I'm tired\"]"}
+{"prompt":"Make a python list of 6 fantasies.","completion":"['teleportation', 'invisibility', 'telepathy', 'flying', 'immortality', 'telekinesis']"}
+{"prompt":"Make a python list of 6 telescopes.","completion":"['ALMA', 'Hubble', 'VLA', 'JWST', 'LBT', 'Keck']"}
+{"prompt":"Make a python list of 7 paintbrushes.","completion":"['round', 'angle', 'flat', 'liner', 'bright', 'fan', 'filbert']"}
+{"prompt":"Make a python list of 6 chocolate bars.","completion":"['Godiva', 'Ghirardelli', 'Lindt', 'Cadbury', 'Nestle', \"Hershey's\"]"}
+{"prompt":"Make a python list of 9 sports.","completion":"['football', 'golf', 'rugby', 'baseball', 'cricket', 'tennis', 'soccer', 'basketball', 'hockey']"}
+{"prompt":"Make a python list of 6 speakers.","completion":"['Jeff', 'Jessica', 'Jim', 'Joe', 'Jane', 'Jill']"}
+{"prompt":"Make a python list of 3 buildings.","completion":"['apartment', 'condo', 'house']"}
+{"prompt":"Make a python list of 1 conclusions.","completion":"['The conclusion is that the list is empty.']"}
+{"prompt":"Make a python list of 4 knives.","completion":"['steak knife', 'switchblade', 'pocket knife', 'butter knife']"}
+{"prompt":"Make a python list of 9 fruit.","completion":"['apple', 'peach', 'grape', 'strawberry', 'banana', 'orange', 'raspberry', 'blueberry', 'pear']"}
+{"prompt":"Make a python list of 6 pairs of shoes.","completion":"['clogs', 'loafers', 'boots', 'sandals', 'sneakers', 'heels']"}
+{"prompt":"Make a python list of 4 spoons.","completion":"['teaspoon', 'tablespoon', 'spork', 'ladle']"}
+{"prompt":"Make a python list of 8 cables.","completion":"['Lightning', 'USB', 'Ethernet', 'DVI', 'Thunderbolt', 'VGA', 'HDMI', 'DisplayPort']"}
+{"prompt":"Make a python list of 6 senses.","completion":"['proprioception', 'sound', 'smell', 'taste', 'sight', 'touch']"}
+{"prompt":"Make a python list of 9 machines.","completion":"['car', 'computer', 'washing machine', 'dishwasher', 'vacuum cleaner', 'refrigerator', 'microwave', 'lawn mower', 'sewing machine']"}
+{"prompt":"Make a python list of 3 laws.","completion":"['law of conservation of energy', 'law of conservation of mass', 'law of conservation of momentum']"}
+{"prompt":"Make a python list of 7 shoes.","completion":"['heels', 'sneakers', 'boots', 'clogs', 'sandals', 'moccasins', 'loafers']"}
+{"prompt":"Make a python list of 8 planes.","completion":"['A380', 'A330', '747', '787', 'A320', '737', '777', 'A350']"}
+{"prompt":"Make a python list of 6 canyons.","completion":"['Bryce Canyon', 'Grand Canyon', 'Canyon de Chelly', 'Antelope Canyon', 'Black Canyon', 'Canyonlands']"}
+{"prompt":"Make a python list of 2 scarfs.","completion":"['red', 'blue']"}
+{"prompt":"Make a python list of 5 waterfalls.","completion":"['Angel Falls', 'Iguazu Falls', 'Victoria Falls', 'Niagara Falls', 'Kaieteur Falls']"}
+{"prompt":"Make a python list of 6 worldviews.","completion":"['idealism', 'pluralism', 'monism', 'materialism', 'solipsism', 'dualism']"}
+{"prompt":"Make a python list of 6 counties.","completion":"['San Francisco', 'Napa', 'Marin', 'Contra Costa', 'San Mateo', 'Alameda']"}
+{"prompt":"Make a python list of 9 jewelry.","completion":"['ring', 'brooch', 'necklace', 'pendant', 'tie clip', 'earrings', 'bracelet', 'cufflinks', 'watch']"}
+{"prompt":"Make a python list of 7 keyboards.","completion":"['workman', 'jcuk', 'colemak', 'qwertz', 'qwerty', 'maltron', 'dvorak']"}
+{"prompt":"Make a python list of 4 elements.","completion":"['lithium', 'hydrogen', 'helium', 'beryllium']"}
+{"prompt":"Make a python list of 3 sunglasses.","completion":"['Ray-Ban', 'Oakley', 'Gucci']"}
+{"prompt":"Make a python list of 6 animals.","completion":"['pig', 'sheep', 'cat', 'cow', 'horse', 'dog']"}
+{"prompt":"Make a python list of 7 attitudes.","completion":"['excited', 'happy', 'sad', 'confused', 'tired', 'angry', 'bored']"}
+{"prompt":"Make a python list of 5 networks.","completion":"['linkedin', 'facebook', 'twitter', 'instagram', 'reddit']"}
+{"prompt":"Make a python list of 5 pans.","completion":"['sauce pan', 'wok', 'sauté pan', 'skillet', 'frying pan']"}
+{"prompt":"Make a python list of 5 people.","completion":"['John', 'Jim', 'Jane', 'Joe', 'Jill']"}
+{"prompt":"Make a python list of 2 nations.","completion":"['Canada', 'USA']"}
+{"prompt":"Make a python list of 3 watches.","completion":"['Timex', 'Casio', 'Seiko']"}
+{"prompt":"Make a python list of 2 books.","completion":"['Dandelion Wine', 'The Three Body Problem']"}
+{"prompt":"Make a python list of 1 headsets.","completion":"['headset']"}
+{"prompt":"Make a python list of 1 microwaves.","completion":"['microwave']"}
+{"prompt":"Make a python list of 7 motorbikes.","completion":"['Yamaha', 'Suzuki', 'Kawasaki', 'BMW', 'Honda', 'Harley Davidson', 'Ducati']"}
+{"prompt":"Make a python list of 1 headphones.","completion":"['headphones']"}
+{"prompt":"Make a python list of 8 experiences.","completion":"['sad', 'surprised', 'happy', 'confused', 'bored', 'scared', 'angry', 'excited']"}
+{"prompt":"Make a python list of 9 pens.","completion":"['pen', 'fountain pen', 'chalk', 'stylus', 'crayon', 'quill', 'marker', 'pencil', 'brush']"}
+{"prompt":"Make a python list of 9 wetlands.","completion":"['mangrove', 'fen', 'swamp', 'river', 'pond', 'lake', 'stream', 'bog', 'marsh']"}
+{"prompt":"Make a python list of 6 computers.","completion":"['Chromebook', 'iPad', 'iPhone', 'Mac', 'PC', 'Android']"}
+{"prompt":"Make a python list of 4 goals.","completion":"['get a girlfriend', 'get a job', 'learn to code', 'lose weight']"}
+{"prompt":"Make a python list of 6 refrigerators.","completion":"['Whirlpool', 'Frigidaire', 'LG', 'Maytag', 'GE', 'Samsung']"}
+{"prompt":"Make a python list of 4 copiers.","completion":"['mimeograph', 'duplicator', 'photocopier', 'xerox']"}
+{"prompt":"Make a python list of 4 artists.","completion":"['Van Gogh', 'Dali', 'Monet', 'Picasso']"}
+{"prompt":"Make a python list of 2 games.","completion":"['go', 'chess']"}
+{"prompt":"Make a python list of 5 guitars.","completion":"['Gibson Les Paul', 'Gibson ES-335', 'Fender Stratocaster', 'Fender Telecaster', 'Gibson SG']"}
+{"prompt":"Make a python list of 5 amphibians.","completion":"['frog', 'newt', 'caecilian', 'salamander', 'toad']"}
+{"prompt":"Make a python list of 8 ships.","completion":"['cruiser', 'frigate', 'battleship', 'aircraft carrier', 'destroyer', 'submarine', 'tugboat', 'torpedo boat']"}
+{"prompt":"Make a python list of 8 dreams.","completion":"['being chased', 'being naked in public', 'being in a car accident', 'being trapped', 'flying', 'being late', 'falling', 'being lost']"}
+{"prompt":"Make a python list of 7 radiators.","completion":"['radiator 1', 'radiator 7', 'radiator 2', 'radiator 5', 'radiator 6', 'radiator 3', 'radiator 4']"}
+{"prompt":"Make a python list of 9 ideals.","completion":"['love', 'happiness', 'peace', 'wisdom', 'beauty', 'equality', 'justice', 'truth', 'freedom']"}
+{"prompt":"Make a python list of 9 states.","completion":"['Connecticut', 'Delaware', 'Alabama', 'California', 'Alaska', 'Colorado', 'Arkansas', 'Florida', 'Arizona']"}
+{"prompt":"Make a python list of 5 doors.","completion":"['front door', 'bedroom door', 'bathroom door', 'garage door', 'back door']"}
+{"prompt":"Make a python list of 3 furniture.","completion":"['chair', 'bed', 'table']"}
+{"prompt":"Make a python list of 8 mugs.","completion":"['mug6', 'mug4', 'mug5', 'mug1', 'mug3', 'mug8', 'mug7', 'mug2']"}
+{"prompt":"Make a python list of 8 crayons.","completion":"['brown', 'blue', 'green', 'yellow', 'orange', 'purple', 'black', 'red']"}
+{"prompt":"Make a python list of 9 coins.","completion":"['two dollar', 'half dollar', 'quarter', 'nickel', 'penny', 'five dollar', 'dime', 'ten dollar', 'dollar']"}
+{"prompt":"Make a python list of 5 pies.","completion":"['pumpkin', 'peach', 'apple', 'cherry', 'rhubarb']"}
+{"prompt":"Make a python list of 5 telephones.","completion":"['landline', 'cordless', 'rotary', 'smart', 'cellular']"}
+{"prompt":"Make a python list of 4 bridges.","completion":"['Brooklyn Bridge', 'Golden Gate Bridge', 'Sydney Harbour Bridge', 'London Bridge']"}
+{"prompt":"Make a python list of 4 notions.","completion":"['idea', 'concept', 'thought', 'notion']"}
+{"prompt":"Make a python list of 6 servers.","completion":"['server4', 'server6', 'server1', 'server2', 'server3', 'server5']"}
+{"prompt":"Make a python list of 4 tablets.","completion":"['Galaxy Tab', 'Surface', 'iPad', 'Kindle Fire']"}
+{"prompt":"Make a python list of 4 televisions.","completion":"['boob tube', 'tube', 'TV', 'television']"}
+{"prompt":"Make a python list of 4 trees.","completion":"['pine', 'maple', 'fir', 'oak']"}
+{"prompt":"Make a python list of 6 birds.","completion":"['flamingo', 'owl', 'penguin', 'eagle', 'robin', 'sparrow']"}
+{"prompt":"Make a python list of 4 computer arrays.","completion":"['set', 'dictionary', 'tuple', 'list']"}
+{"prompt":"Make a python list of 6 musicians.","completion":"['Mozart', 'Brahms', 'Chopin', 'Bach', 'Liszt', 'Beethoven']"}
+{"prompt":"Make a python list of 5 roads.","completion":"['street', 'highway', 'road', 'lane', 'avenue']"}
+{"prompt":"Make a python list of 8 phones.","completion":"['Droid', 'Galaxy', 'Moto', 'OnePlus', 'Pixel', 'iPhone', 'Lumia', 'Nexus']"}
+{"prompt":"Make a python list of 1 rainforests.","completion":"['Amazon']"}
+{"prompt":"Make a python list of 3 languages.","completion":"['C++', 'English', 'Python']"}
+{"prompt":"Make a python list of 6 lizards.","completion":"['iguana', 'monitor', 'chameleon', 'skink', 'whiptail', 'gecko']"}
+{"prompt":"Make a python list of 5 rivers.","completion":"['Yellow', 'Yangtze', 'Mississippi', 'Amazon', 'Nile']"}
+{"prompt":"Make a python list of 7 speculations.","completion":"['aliens', 'the meaning of life', 'the afterlife', 'parallel universes', 'time travel', 'psychic powers', 'ghosts']"}
+{"prompt":"Make a python list of 5 soups.","completion":"['chicken noodle', 'tomato', 'pho', 'miso', 'borscht']"}
+{"prompt":"Make a python list of 6 mammals.","completion":"['elephant', 'mouse', 'human', 'dog', 'horse', 'cat']"}
+{"prompt":"Make a python list of 9 sculptures.","completion":"['The Winged Victory of Samothrace', 'The Thinker', 'David', 'The Great Sphinx of Giza', 'The Discus Thrower', 'Venus de Milo', 'The Dying Gaul', 'The Pieta', 'The Kiss']"}
+{"prompt":"Make a python list of 9 toys.","completion":"['doll', 'train', 'plane', 'car', 'ball', 'blocks', 'robot', 'boat', 'truck']"}
+{"prompt":"Make a python list of 7 films.","completion":"['The Matrix Revolutions', 'The Matrix Reloaded', 'The Matrix Reaction', 'The Animatrix', 'The Matrix Revisited', 'The Matrix Resurrections', 'The Matrix']"}
+{"prompt":"Make a python list of 6 concepts.","completion":"['concept', 'principle', 'belief', 'idea', 'theory', 'notion']"}
+{"prompt":"Make a python list of 6 vegetables.","completion":"['corn', 'carrot', 'tomato', 'onion', 'pepper', 'potato']"}
+{"prompt":"Make a python list of 8 lamps.","completion":"['desk lamp', 'ceiling lamp', 'chandelier', 'sconce', 'torchiere', 'floor lamp', 'wall lamp', 'table lamp']"}
+{"prompt":"Make a python list of 9 cities.","completion":"['London', 'Rio de Janeiro', 'Beijing', 'Moscow', 'Paris', 'New York', 'Cairo', 'Sydney', 'Tokyo']"}
+{"prompt":"Make a python list of 6 plates.","completion":"['dessert plate', 'saucer', 'dinner plate', 'soup bowl', 'charger', 'salad plate']"}
+{"prompt":"Make a python list of 8 mindsets.","completion":"['growth', 'closed', 'curious', 'fixed', 'open', 'fearful', 'judgmental', 'courageous']"}
+{"prompt":"Make a python list of 4 houses.","completion":"['home', 'house', 'abode', 'residence']"}
+{"prompt":"Make a python list of 8 perspectives.","completion":"['second person', 'objective', 'first person', 'third person', 'omniscient', 'limited', 'subjective', 'stream of consciousness']"}
+{"prompt":"Make a python list of 2 truths.","completion":"['The sky is green', 'The sky is blue']"}
+{"prompt":"Make a python list of 2 shirts.","completion":"['red', 'blue']"}
+{"prompt":"Make a python list of 9 trams.","completion":"['tram 9', 'tram 3', 'tram 2', 'tram 7', 'tram 6', 'tram 8', 'tram 5', 'tram 4', 'tram 1']"}
+{"prompt":"Make a python list of 3 hypotheses.","completion":"['the earth is flat', 'the earth is round', 'the earth is a cube']"}
+{"prompt":"Make a python list of 3 glasses.","completion":"['green', 'blue', 'red']"}
+{"prompt":"Make a python list of 2 ideologies.","completion":"['socialist', 'libertarian']"}
+{"prompt":"Make a python list of 8 outlooks.","completion":"['hazy', 'cloudy', 'foggy', 'stormy', 'sunny', 'rainy', 'snowy', 'windy']"}
+{"prompt":"Make a python list of 5 tractors.","completion":"['New Holland', 'John Deere', 'Massey Ferguson', 'Fendt', 'Case IH']"}
+{"prompt":"Make a python list of 3 paintings.","completion":"['The Scream', 'The Persistence of Memory', 'The Starry Night']"}
+{"prompt":"Make a python list of 8 pizzas.","completion":"['meat lovers', 'cheese', 'hawaiian', 'supreme', 'margherita', 'pepperoni', 'white', 'veggie']"}
+{"prompt":"Make a python list of 4 photographs.","completion":"['portrait', 'selfie', 'still life', 'landscape']"}
+{"prompt":"Make a python list of 2 mountains.","completion":"['Mt. Fuji', 'Mt. Everest']"}
+{"prompt":"Make a python list of 7 couches.","completion":"['davenport', 'ottoman', 'divan', 'loveseat', 'sofa', 'chaise', 'couch']"}
+{"prompt":"Make a python list of 5 countries.","completion":"['Brazil', 'Mexico', 'Canada', 'USA', 'Cuba']"}
+{"prompt":"Make a python list of 3 arachnids.","completion":"['tick', 'scorpion', 'spider']"}
+{"prompt":"Make a python list of 3 cats.","completion":"['Snowy', 'Snowball', 'Snowflake']"}
+{"prompt":"Make a python list of 8 imaginings.","completion":"['a world without fear', 'a world without poverty', 'a world without ignorance', 'a world without disease', 'a world without greed', 'a world without war', 'a world without hate', 'a world without hunger']"}
+{"prompt":"Make a python list of 9 boats.","completion":"['sailboat', 'tugboat', 'rowboat', 'motorboat', 'cruise ship', 'cargo ship', 'yacht', 'ferry', 'submarine']"}
+{"prompt":"Make a python list of 9 lights.","completion":"['white', 'black', 'red', 'purple', 'pink', 'orange', 'green', 'blue', 'yellow']"}
+{"prompt":"Make a python list of 1 cranes.","completion":"['crane']"}
+{"prompt":"Make a python list of 6 airplanes.","completion":"['767', '757', '737', '777', '747', '787']"}
+{"prompt":"Make a python list of 7 beliefs.","completion":"['I believe in the power of the human mind', 'I believe in the power of the human body', 'I believe in the power of the human soul', 'I believe in the power of the human will', 'I believe in the power of the human imagination', 'I believe in the power of the human spirit', 'I believe in the power of the human heart']"}
+{"prompt":"Make a python list of 3 microphones.","completion":"['AKG C414', 'Sennheiser MD421', 'Shure SM58']"}
+{"prompt":"Make a python list of 6 newspapers.","completion":"['The Los Angeles Times', 'The Wall Street Journal', 'The New York Times', 'The Washington Post', 'The Boston Globe', 'The Chicago Tribune']"}
+{"prompt":"Make a python list of 1 mollusks.","completion":"['octopus']"}
+{"prompt":"Make a python list of 6 stereos.","completion":"['Sony', 'JBL', 'Bowers & Wilkins', 'Sennheiser', 'Bang & Olufsen', 'Bose']"}
+{"prompt":"Make a python list of 9 trucks.","completion":"['Volvo', 'Mazda', 'Honda', 'Chevy', 'Nissan', 'Toyota', 'Ford', 'Freightliner', 'Dodge']"}
+{"prompt":"Make a python list of 6 satellites.","completion":"['Juno', 'Voyager 2', 'Galileo', 'Cassini', 'Voyager 1', 'New Horizons']"}
+{"prompt":"Make a python list of 3 hopes.","completion":"['hope for the future', 'hope for the world', 'hope for the best']"}
+{"prompt":"Make a python list of 3 mushrooms.","completion":"['shiitake', 'morel', 'porcini']"}
+{"prompt":"Make a python list of 2 waves.","completion":"['sine', 'square']"}
+{"prompt":"Make a python list of 8 dogs.","completion":"['dachshund', 'poodle', 'pug', 'chihuahua', 'golden retriever', 'beagle', 'bulldog', 'labrador']"}
+{"prompt":"Make a python list of 2 frogs.","completion":"['red-eyed tree frog', 'bullfrog']"}
+{"prompt":"Make a python list of 6 telescope arrays.","completion":"['VLBI', 'VLA', 'VLT', 'VLSS', 'VLBA', 'ALMA']"}
+{"prompt":"Make a python list of 6 grasslands.","completion":"['prairie', 'savanna', 'steppe', 'veld', 'outback', 'pampas']"}
+{"prompt":"Make a python list of 4 clouds.","completion":"['nimbus', 'cirrus', 'stratus', 'cumulus']"}
+{"prompt":"Make a python list of 8 photocopying machines.","completion":"['Brother', 'Kyocera', 'HP', 'Canon', 'Konica Minolta', 'Xerox', 'Ricoh', 'Sharp']"}
+{"prompt":"Make a python list of 1 opinions.","completion":"['I like this']"}
+{"prompt":"Make a python list of 7 clothes.","completion":"['gloves', 'hat', 'shirt', 'pants', 'shoes', 'socks', 'scarf']"}
+{"prompt":"Make a python list of 7 molecules.","completion":"['N2', 'CO2', 'H2', 'H2O', 'O2', 'CH4', 'H2O2']"}
+{"prompt":"Make a python list of 3 backpacks.","completion":"['JanSport', 'Osprey', 'North Face']"}
+{"prompt":"Make a python list of 1 TV series.","completion":"['The Expanse']"}
+{"prompt":"Make a python list of 1 coats.","completion":"['coat']"}
+{"prompt":"Make a python list of 8 theories.","completion":"['theory of relativity', 'theory of mind', 'theory of forms', 'string theory', 'theory of evolution', 'theory of computation', 'theory of everything', 'quantum theory']"}
+{"prompt":"Make a python list of 3 apartments.","completion":"['studio', 'one bedroom', 'two bedroom']"}
+{"prompt":"Make a python list of 9 philosophical systems.","completion":"['platonism', 'stoicism', 'epicureanism', 'utilitarianism', 'buddhism', 'confucianism', 'nihilism', 'existentialism', 'taoism']"}
+{"prompt":"Make a python list of 2 microphone arrays.","completion":"['microphone array 2', 'microphone array 1']"}
+{"prompt":"Make a python list of 2 skateboards.","completion":"['penny board', 'longboard']"}
+{"prompt":"Make a python list of 1 tables.","completion":"['table']"}
+{"prompt":"Make a python list of 9 leaves.","completion":"['cherry', 'oak', 'poplar', 'hickory', 'ash', 'elm', 'maple', 'birch', 'willow']"}
+{"prompt":"Make a python list of 9 printers.","completion":"['Brother', 'Canon', 'Epson', 'Ricoh', 'Kyocera', 'HP', 'Dell', 'Xerox', 'Lexmark']"}
+{"prompt":"Make a python list of 8 sweaters.","completion":"['green', 'red', 'orange', 'purple', 'black', 'brown', 'blue', 'yellow']"}
+{"prompt":"Make a python list of 5 cars.","completion":"['Ford', 'Honda', 'Toyota', 'Chevy', 'Nissan']"}
+{"prompt":"Make a python list of 8 helicopters.","completion":"['Sikorsky S-61', 'Boeing AH-64 Apache', 'Sikorsky UH-60 Black Hawk', 'Boeing CH-47 Chinook', 'Bell 206', 'Sikorsky SH-60 Seahawk', 'Bell OH-58 Kiowa', 'Bell UH-1 Iroquois']"}
+{"prompt":"Make a python list of 7 modems.","completion":"['cable', 'dial-up', 'DSL', 'fiber', 'microwave', 'satellite', 'cellular']"}
+{"prompt":"Make a python list of 5 umbrellas.","completion":"['green', 'blue', 'yellow', 'purple', 'red']"}
+{"prompt":"Make a python list of 2 fish.","completion":"['salmon', 'trout']"}
+{"prompt":"Make a python list of 5 cameras.","completion":"['Nikon', 'Fuji', 'Canon', 'Olympus', 'Sony']"}
+{"prompt":"Make a python list of 9 snakes.","completion":"['anaconda', 'boa', 'sea snake', 'viper', 'rattlesnake', 'python', 'mamba', 'coral snake', 'cobra']"}
+{"prompt":"Make a python list of 9 socks.","completion":"['black', 'brown', 'yellow', 'blue', 'purple', 'red', 'white', 'green', 'orange']"}
+{"prompt":"Make a python list of 2 magazines.","completion":"['The Economist', 'The New Yorker']"}
+{"prompt":"Make a python list of 6 inspirations.","completion":"['friends', 'family', 'love', 'nature', 'music', 'art']"}
+{"prompt":"Make a python list of 9 plants.","completion":"['lily', 'sunflower', 'rose', 'iris', 'tulip', 'daisy', 'daffodil', 'orchid', 'lilac']"}
+{"prompt":"Make a python list of 2 feelings.","completion":"['happy', 'sad']"}
+{"prompt":"Make a python list of 2 principles.","completion":"['principle of least astonishment', 'principle of least surprise']"}
+{"prompt":"Make a python list of 7 plains.","completion":"['pampas', 'prairie', 'steppe', 'veld', 'tundra', 'savanna', 'pampa']"}
+{"prompt":"Make a python list of 3 programming languages.","completion":"['C++', 'Java', 'Python']"}
+{"prompt":"Make a python list of 7 rocks.","completion":"['granite', 'limestone', 'obsidian', 'basalt', 'marble', 'sandstone', 'quartz']"}
+{"prompt":"Make a python list of 3 pants.","completion":"['khakis', 'sweatpants', 'jeans']"}
+{"prompt":"Make a python list of 1 desks.","completion":"['desk']"}
+{"prompt":"Make a python list of 6 boots.","completion":"['blue', 'black', 'white', 'green', 'yellow', 'red']"}
+{"prompt":"Make a python list of 5 coral reefs.","completion":"['Red Sea Coral Reef', 'Andros, Bahamas Barrier Reef', 'Great Barrier Reef', 'Belize Barrier Reef', 'New Caledonia Barrier Reef']"}
+{"prompt":"Make a python list of 1 bottles.","completion":"['bottle']"}
+{"prompt":"Make a python list of 8 monitors.","completion":"['ViewSonic', 'Asus', 'Dell', 'HP', 'AOC', 'LG', 'Acer', 'Samsung']"}
+{"prompt":"Make a python list of 1 sensations.","completion":"['warmth']"}
+{"prompt":"Make a python list of 7 video games.","completion":"['Super Smash Bros', 'Super Mario', 'Mario Party', 'Mario Kart', 'Minecraft', 'Animal Crossing', 'Pokemon']"}
+{"prompt":"Make a python list of 2 assumptions.","completion":"['assumption 1', 'assumption 2']"}
+{"prompt":"Make a python list of 7 robots.","completion":"['TARS', 'Marvin', 'Rosie', 'R2D2', 'Wall-E', 'Bender', 'C3PO']"}
+{"prompt":"Make a python list of 8 fears.","completion":"['spiders', 'dogs', 'water', 'darkness', 'clowns', 'snakes', 'flying', 'heights']"}
+{"prompt":"Make a python list of 7 values.","completion":"[7, 6, 3, 2, 1, 4, 5]"}
+{"prompt":"Make a python list of 8 conjectures.","completion":"['The Collatz Conjecture', 'The Goldbach Conjecture', 'The Hodge Conjecture', 'The Yang-Mills Existence and Mass Gap Conjecture', 'The Riemann Hypothesis', 'The Birch and Swinnerton-Dyer Conjecture', 'The Twin Prime Conjecture', 'The Navier-Stokes Existence and Smoothness Conjecture']"}
+{"prompt":"Make a python list of 1 hats.","completion":"['hat']"}
+{"prompt":"Make a python list of 7 scientists.","completion":"['Curie', 'Galileo', 'Tesla', 'Faraday', 'Einstein', 'Newton', 'Darwin']"}
+{"prompt":"Make a python list of 9 vases.","completion":"['plastic', 'wood', 'stone', 'glass', 'metal', 'ceramic', 'concrete', 'porcelain', 'clay']"}
+{"prompt":"Make a python list of 5 routers.","completion":"['Arista', 'Huawei', 'Juniper', 'Cisco', 'H3C']"}
+{"prompt":"Make a python list of 2 bicycles.","completion":"['mountain bike', 'road bike']"}
+{"prompt":"Make a python list of 1 islands.","completion":"['Hawaii']"}
+{"prompt":"Make a python list of 6 drones.","completion":"['drone5', 'drone1', 'drone4', 'drone6', 'drone2', 'drone3']"}
+{"prompt":"Make a python list of 6 movies.","completion":"['The Matrix Resurrections', 'The Matrix', 'The Matrix Revolutions', 'The Animatrix', 'The Matrix Reloaded', 'The Matrix Revisited']"}
+{"prompt":"Make a python list of 8 minerals.","completion":"['iron', 'copper', 'gold', 'salt', 'silver', 'lead', 'mercury', 'tin']"}
+{"prompt":"Make a python list of 2 cords.","completion":"['(1, 2)', '(3, 4)']"}
+{"prompt":"Make a python list of 7 hubs.","completion":"['Earth', 'Venus', 'Mars', 'Sun', 'Jupiter', 'Saturn', 'Mercury']"}
+{"prompt":"Make a python list of 4 sandwiches.","completion":"['ham and cheese', 'grilled cheese', 'peanut butter and jelly', 'turkey']"}
+{"prompt":"Make a python list of 4 trains.","completion":"['bullet train', 'steam train', 'monorail', 'maglev train']"}
+{"prompt":"Make a python list of 6 dishes.","completion":"['sushi', 'pasta', 'ramen', 'curry', 'soup', 'pizza']"}
+{"prompt":"Make a python list of 9 fishes.","completion":"['cod', 'perch', 'carp', 'bass', 'trout', 'catfish', 'salmon', 'sturgeon', 'pike']"}
+{"prompt":"Make a python list of 4 ice caps.","completion":"['Greenland', 'Arctic', 'East Antarctic', 'Antarctic']"}
+{"prompt":"Make a python list of 4 microscopes.","completion":"['light microscope', 'atomic force microscope', 'electron microscope', 'scanning tunneling microscope']"}
+{"prompt":"Make a python list of 2 thoughts.","completion":"[\"I'm tired\", \"I'm hungry\"]"}
+{"prompt":"Make a python list of 1 telescopes.","completion":"['Hubble']"}
+{"prompt":"Make a python list of 4 paintbrushes.","completion":"['fan', 'round', 'bristle', 'flat']"}
+{"prompt":"Make a python list of 8 chocolate bars.","completion":"['Mars', 'Ferrero', 'Ghirardelli', 'Nestle', 'Lindt', 'Cadbury', 'Godiva', \"Hershey's\"]"}
+{"prompt":"Make a python list of 4 sports.","completion":"['football', 'baseball', 'soccer', 'basketball']"}
+{"prompt":"Make a python list of 9 foods.","completion":"['curry', 'salad', 'sandwich', 'tacos', 'pizza', 'pasta', 'sushi', 'soup', 'ramen']"}
+{"prompt":"Make a python list of 9 desires.","completion":"['power', 'love', 'money', 'fame', 'wisdom', 'health', 'knowledge', 'happiness', 'beauty']"}
+{"prompt":"Make a python list of 3 drinks.","completion":"['tea', 'coffee', 'water']"}
+{"prompt":"Make a python list of 7 buildings.","completion":"['apartment', 'factory', 'condo', 'house', 'hotel', 'office', 'warehouse']"}
+{"prompt":"Make a python list of 3 emotions.","completion":"['happy', 'sad', 'angry']"}
+{"prompt":"Make a python list of 9 rockets.","completion":"['proton', 'atlas v', 'delta iv', 'ariane 5', 'falcon heavy', 'falcon 9', 'h-2a', 'soyuz', 'long march 5']"}
+{"prompt":"Make a python list of 5 spaceships.","completion":"['Galactica', 'Serenity', 'Enterprise', 'Millennium Falcon', 'Discovery']"}
+{"prompt":"Make a python list of 4 glaciers.","completion":"['Wrangell-St. Elias National Park', 'Kenai Fjords National Park', 'Glacier National Park', 'Glacier Bay National Park']"}
+{"prompt":"Make a python list of 7 knives.","completion":"['pocket knife', \"chef's knife\", 'paring knife', 'carving knife', 'steak knife', 'butter knife', 'bread knife']"}
+{"prompt":"Make a python list of 8 motorcycles.","completion":"['BMW', 'Harley Davidson', 'Triumph', 'Suzuki', 'Kawasaki', 'Honda', 'Ducati', 'Yamaha']"}
+{"prompt":"Make a python list of 7 fruit.","completion":"['peach', 'orange', 'pear', 'grape', 'apple', 'banana', 'strawberry']"}
+{"prompt":"Make a python list of 8 pairs of shoes.","completion":"['sneakers', 'boots', 'clogs', 'slippers', 'sandals', 'heels', 'loafers', 'flats']"}
+{"prompt":"Make a python list of 6 spoons.","completion":"['ladle', 'teaspoon', 'salt spoon', 'tablespoon', 'sugar spoon', 'soup spoon']"}
+{"prompt":"Make a python list of 3 cables.","completion":"['USB', 'HDMI', 'Ethernet']"}
+{"prompt":"Make a python list of 7 machines.","completion":"['computer', 'washing machine', 'lawn mower', 'vacuum cleaner', 'car', 'dishwasher', 'microwave']"}
+{"prompt":"Make a python list of 8 laws.","completion":"['law of conservation of charge', 'law of conservation of electric charge', 'law of conservation of momentum', 'law of conservation of lepton number', 'law of conservation of mass', 'law of conservation of energy', 'law of conservation of angular momentum', 'law of conservation of linear momentum']"}
+{"prompt":"Make a python list of 3 shoes.","completion":"['boots', 'sneakers', 'sandals']"}
+{"prompt":"Make a python list of 7 continents.","completion":"['Asia', 'Australia', 'Antarctica', 'Africa', 'South America', 'North America', 'Europe']"}
+{"prompt":"Make a python list of 1 planes.","completion":"['747']"}
+{"prompt":"Make a python list of 9 canyons.","completion":"['Canyonlands', 'Antelope Canyon', 'Canyon of the Kings', 'Canyon of the Whales', 'Grand Canyon', 'Canyon of the Eagles', 'Bryce Canyon', 'Black Canyon', 'Canyon de Chelly']"}
+{"prompt":"Make a python list of 4 scarfs.","completion":"['blue', 'red', 'yellow', 'green']"}
+{"prompt":"Make a python list of 3 forests.","completion":"['Amazon', 'Taiga', 'Boreal']"}
+{"prompt":"Make a python list of 7 waterfalls.","completion":"['Kaieteur Falls', 'Victoria Falls', 'Iguazu Falls', 'Niagara Falls', 'Yellowstone Falls', 'Angel Falls', 'Yosemite Falls']"}
+{"prompt":"Make a python list of 2 oceans.","completion":"['Atlantic', 'Pacific']"}
+{"prompt":"Make a python list of 1 worldviews.","completion":"['scientific']"}
+{"prompt":"Make a python list of 5 turtles.","completion":"['sea turtle', 'snapping turtle', 'tortoise', 'terrapin', 'turtle']"}
+{"prompt":"Make a python list of 9 jewelry.","completion":"['cufflinks', 'tie clip', 'brooch', 'ring', 'bracelet', 'earrings', 'necklace', 'watch', 'pendant']"}
+{"prompt":"Make a python list of 1 elements.","completion":"['']"}
+{"prompt":"Make a python list of 8 sunglasses.","completion":"['round', 'oversized', 'aviator', 'butterfly', 'rimless', 'cat eye', 'wayfarer', 'square']"}
+{"prompt":"Make a python list of 3 t-shirts.","completion":"['green', 'red', 'blue']"}
+{"prompt":"Make a python list of 8 attitudes.","completion":"['tired', 'excited', 'bored', 'curious', 'sad', 'confused', 'happy', 'angry']"}
+{"prompt":"Make a python list of 4 networks.","completion":"['linkedin', 'twitter', 'instagram', 'facebook']"}
+{"prompt":"Make a python list of 7 pans.","completion":"['frying pan', 'roasting pan', 'sauce pan', 'wok', 'baking pan', 'sauté pan', 'skillet']"}
+{"prompt":"Make a python list of 7 watches.","completion":"['Casio', 'Citizen', 'Omega', 'Rolex', 'Patek Philippe', 'Timex', 'Seiko']"}
+{"prompt":"Make a python list of 5 headsets.","completion":"['Sennheiser', 'Bang & Olufsen', 'Bose', 'Beats', 'Sony']"}
+{"prompt":"Make a python list of 5 microwaves.","completion":"['GE', 'Panasonic', 'LG', 'Samsung', 'Sharp']"}
+{"prompt":"Make a python list of 5 motorbikes.","completion":"['Suzuki', 'Yamaha', 'Honda', 'Kawasaki', 'Harley Davidson']"}
+{"prompt":"Make a python list of 1 pancakes.","completion":"['pancakes']"}
+{"prompt":"Make a python list of 1 pens.","completion":"['pen']"}
+{"prompt":"Make a python list of 5 wetlands.","completion":"['marsh', 'mangrove', 'bog', 'fen', 'swamp']"}
+{"prompt":"Make a python list of 6 computers.","completion":"['Android', 'Chromebook', 'PC', 'Mac', 'iPad', 'iPhone']"}
+{"prompt":"Make a python list of 7 goals.","completion":"['get a boyfriend', 'get a job', 'get a house', 'lose weight', 'get a degree', 'get a girlfriend', 'get a car']"}
+{"prompt":"Make a python list of 9 refrigerators.","completion":"['LG', 'GE', 'Samsung', 'Whirlpool', 'Bosch', 'Fisher & Paykel', 'Frigidaire', 'Kenmore', 'Maytag']"}
+{"prompt":"Make a python list of 1 copiers.","completion":"['copier']"}
+{"prompt":"Make a python list of 6 artists.","completion":"['Rembrandt', 'Van Gogh', 'Raphael', 'Picasso', 'Dali', 'Monet']"}
+{"prompt":"Make a python list of 3 games.","completion":"['go', 'poker', 'chess']"}
+{"prompt":"Make a python list of 9 guitars.","completion":"['Gibson ES-335', 'Gibson Firebird', 'Fender Stratocaster', 'Gibson J-200', 'Gibson SG', 'Gibson Les Paul', 'Gibson J-45', 'Gibson Hummingbird', 'Fender Telecaster']"}
+{"prompt":"Make a python list of 3 amphibians.","completion":"['salamander', 'frog', 'newt']"}
+{"prompt":"Make a python list of 7 ships.","completion":"['cruise ship', 'submarine', 'ferry', 'sailboat', 'yacht', 'aircraft carrier', 'tugboat']"}
+{"prompt":"Make a python list of 1 dreams.","completion":"['dreams']"}
+{"prompt":"Make a python list of 9 radiators.","completion":"['radiator 2', 'radiator 8', 'radiator 1', 'radiator 6', 'radiator 4', 'radiator 3', 'radiator 9', 'radiator 7', 'radiator 5']"}
+{"prompt":"Make a python list of 3 ideals.","completion":"['freedom', 'justice', 'equality']"}
+{"prompt":"Make a python list of 3 states.","completion":"['Texas', 'New York', 'California']"}
+{"prompt":"Make a python list of 2 doors.","completion":"['back door', 'front door']"}
+{"prompt":"Make a python list of 3 furniture.","completion":"['bed', 'chair', 'table']"}
+{"prompt":"Make a python list of 8 metals.","completion":"['iron', 'copper', 'silver', 'gold', 'zinc', 'tin', 'lead', 'mercury']"}
+{"prompt":"Make a python list of 9 mugs.","completion":"['mug3', 'mug5', 'mug1', 'mug8', 'mug9', 'mug4', 'mug6', 'mug2', 'mug7']"}
+{"prompt":"Make a python list of 3 crayons.","completion":"['blue', 'red', 'green']"}
+{"prompt":"Make a python list of 7 coins.","completion":"['nickel', 'two dollar', 'quarter', 'half dollar', 'dime', 'penny', 'dollar']"}
+{"prompt":"Make a python list of 1 telephones.","completion":"['telephone']"}
+{"prompt":"Make a python list of 8 philosophies.","completion":"['utilitarianism', 'solipsism', 'hedonism', 'nihilism', 'stoicism', 'skepticism', 'existentialism', 'epicureanism']"}
+{"prompt":"Make a python list of 6 bridges.","completion":"['London Bridge', 'Pont Neuf', 'Tower Bridge', 'Golden Gate Bridge', 'Sydney Harbour Bridge', 'Brooklyn Bridge']"}
+{"prompt":"Make a python list of 9 notions.","completion":"['idea', 'concept', 'thought', 'impression', 'belief', 'opinion', 'notion', 'theory', 'conception']"}
+{"prompt":"Make a python list of 7 scanners.","completion":"['scanner 3', 'scanner 1', 'scanner 6', 'scanner 2', 'scanner 4', 'scanner 7', 'scanner 5']"}
+{"prompt":"Make a python list of 5 tablets.","completion":"['Surface', 'iPad', 'Galaxy Tab', 'Nexus 7', 'Kindle Fire']"}
+{"prompt":"Make a python list of 5 televisions.","completion":"['TV', 'boob tube', 'idiot box', 'tube', 'television']"}
+{"prompt":"Make a python list of 1 birds.","completion":"['penguin']"}
+{"prompt":"Make a python list of 2 computer arrays.","completion":"['tuple', 'list']"}
+{"prompt":"Make a python list of 8 musicians.","completion":"['Liszt', 'Schubert', 'Schumann', 'Bach', 'Brahms', 'Beethoven', 'Chopin', 'Mozart']"}
+{"prompt":"Make a python list of 1 impressions.","completion":"[\"I'm impressed\"]"}
+{"prompt":"Make a python list of 2 roads.","completion":"['street', 'highway']"}
+{"prompt":"Make a python list of 5 phones.","completion":"['Pixel', 'iPhone', 'Lumia', 'Galaxy', 'Nexus']"}
+{"prompt":"Make a python list of 7 languages.","completion":"['French', 'German', 'English', 'Spanish', 'Russian', 'Italian', 'Chinese']"}
+{"prompt":"Make a python list of 3 lizards.","completion":"['iguana', 'gecko', 'chameleon']"}
+{"prompt":"Make a python list of 2 rivers.","completion":"['Mississippi', 'Nile']"}
+{"prompt":"Make a python list of 2 speculations.","completion":"['ghosts', 'aliens']"}
+{"prompt":"Make a python list of 1 soups.","completion":"['tomato soup']"}
+{"prompt":"Make a python list of 5 mammals.","completion":"['dog', 'cat', 'elephant', 'horse', 'human']"}
+{"prompt":"Make a python list of 8 sculptures.","completion":"['The Winged Victory of Samothrace', 'The Discus Thrower', 'The Kiss', 'The Thinker', 'Venus de Milo', 'The Great Sphinx of Giza', 'David', 'The Pieta']"}
+{"prompt":"Make a python list of 9 perceptions.","completion":"['equilibrioception', 'smell', 'sound', 'nociception', 'taste', 'proprioception', 'touch', 'sight', 'thermoception']"}
+{"prompt":"Make a python list of 5 sneakers.","completion":"['Reebok', 'New Balance', 'Adidas', 'Puma', 'Nike']"}
+{"prompt":"Make a python list of 6 toys.","completion":"['blocks', 'doll', 'ball', 'action figure', 'car', 'stuffed animal']"}
+{"prompt":"Make a python list of 4 films.","completion":"['The Matrix Revolutions', 'The Matrix', 'The Matrix Reloaded', 'The Matrix Resurrections']"}
+{"prompt":"Make a python list of 7 places.","completion":"['grocery store', 'work', 'home', 'park', 'gym', 'school', 'library']"}
+{"prompt":"Make a python list of 1 concepts.","completion":"['concepts']"}
+{"prompt":"Make a python list of 5 vegetables.","completion":"['potato', 'onion', 'corn', 'tomato', 'carrot']"}
+{"prompt":"Make a python list of 7 reptiles.","completion":"['turtle', 'chameleon', 'iguana', 'snake', 'crocodile', 'lizard', 'gecko']"}
+{"prompt":"Make a python list of 2 lamps.","completion":"['table lamp', 'floor lamp']"}
+{"prompt":"Make a python list of 7 cities.","completion":"['Moscow', 'Paris', 'Beijing', 'Rio de Janeiro', 'Tokyo', 'New York', 'London']"}
+{"prompt":"Make a python list of 5 plates.","completion":"['dinner plate', 'dessert plate', 'salad plate', 'saucer', 'soup bowl']"}
+{"prompt":"Make a python list of 3 mindsets.","completion":"['fixed', 'open', 'growth']"}
+{"prompt":"Make a python list of 5 houses.","completion":"['residence', 'dwelling', 'home', 'house', 'abode']"}
+{"prompt":"Make a python list of 3 purses.","completion":"['bag', 'purse', 'satchel']"}
+{"prompt":"Make a python list of 5 bottles of water.","completion":"['Dasani', 'Aquafina', 'Smart Water', 'Evian', 'Fiji']"}
+{"prompt":"Make a python list of 6 truths.","completion":"['the sky is blue', 'the grass is green', 'the earth is round', 'the sun is hot', 'the moon is cold', 'the universe is infinite']"}
+{"prompt":"Make a python list of 7 shirts.","completion":"['blue', 'red', 'yellow', 'purple', 'green', 'orange', 'pink']"}
+{"prompt":"Make a python list of 7 memories.","completion":"['first time I saw the rainforest', 'first day of school', 'first time I saw the Great Lakes', 'first time I saw the ocean', 'first time I saw the mountains', 'first time I saw the desert', 'first kiss']"}
+{"prompt":"Make a python list of 2 fruits.","completion":"['banana', 'apple']"}
+{"prompt":"Make a python list of 3 trams.","completion":"['tram 2', 'tram 1', 'tram 3']"}
+{"prompt":"Make a python list of 3 glasses.","completion":"['green', 'red', 'blue']"}
+{"prompt":"Make a python list of 8 ideologies.","completion":"['liberal', 'anarchist', 'communist', 'socialist', 'green', 'libertarian', 'fascist', 'conservative']"}
+{"prompt":"Make a python list of 4 outlooks.","completion":"['cloudy', 'sunny', 'snowy', 'rainy']"}
+{"prompt":"Make a python list of 5 tractors.","completion":"['John Deere', 'Fendt', 'Case IH', 'Massey Ferguson', 'New Holland']"}
+{"prompt":"Make a python list of 8 paintings.","completion":"['The Birth of Venus', 'The Starry Night', 'The Scream', 'The Mona Lisa', 'The Last Supper', 'The Creation of Adam', 'The Sistine Chapel', 'The Persistence of Memory']"}
+{"prompt":"Make a python list of 5 photographs.","completion":"['portrait', 'panorama', 'landscape', 'macro', 'still life']"}
+{"prompt":"Make a python list of 5 mountains.","completion":"['Mt. Everest', 'Mt. McKinley', 'Mt. Whitney', 'Mt. Kilimanjaro', 'Mt. Fuji']"}
+{"prompt":"Make a python list of 3 couches.","completion":"['couch', 'loveseat', 'sofa']"}
+{"prompt":"Make a python list of 8 countries.","completion":"['Dominican Republic', 'Mexico', 'Jamaica', 'USA', 'Cuba', 'Canada', 'Haiti', 'Puerto Rico']"}
+{"prompt":"Make a python list of 6 washing machines.","completion":"['Maytag', 'Samsung', 'GE', 'Whirlpool', 'Kenmore', 'LG']"}
+{"prompt":"Make a python list of 2 arachnids.","completion":"['spider', 'scorpion']"}
+{"prompt":"Make a python list of 3 cats.","completion":"['Snowy', 'Snowflake', 'Snowball']"}
+{"prompt":"Make a python list of 4 imaginings.","completion":"['a world without war', 'a world without hunger', 'a world without suffering', 'a world without disease']"}
+{"prompt":"Make a python list of 4 boats.","completion":"['motorboat', 'rowboat', 'cruise ship', 'sailboat']"}
+{"prompt":"Make a python list of 1 lights.","completion":"['lights']"}
+{"prompt":"Make a python list of 8 cranes.","completion":"['red-crowned', 'brolga', 'himalayan', 'blue', 'demoiselle', 'black-necked', 'whooping', 'sandhill']"}
+{"prompt":"Make a python list of 3 airplanes.","completion":"['Airbus A380', 'Cessna 172', 'Boeing 747']"}
+{"prompt":"Make a python list of 8 beliefs.","completion":"['I believe in the power of the human will', 'I believe in the power of the human spirit', 'I believe in the power of the human heart', 'I believe in the power of the human soul', 'I believe in the power of the human mind', 'I believe in the power of the human body', 'I believe in the power of the human dream', 'I believe in the power of the human imagination']"}
+{"prompt":"Make a python list of 1 microphones.","completion":"['microphone']"}
+{"prompt":"Make a python list of 2 papers.","completion":"['paper1', 'paper2']"}
+{"prompt":"Make a python list of 7 stereos.","completion":"['Samsung', 'Pioneer', 'LG', 'Panasonic', 'Sony', 'JBL', 'Bose']"}
+{"prompt":"Make a python list of 2 lakes.","completion":"['Lake Superior', 'Lake Michigan']"}
+{"prompt":"Make a python list of 5 trucks.","completion":"['Dodge', 'Ford', 'Chevy', 'Nissan', 'Toyota']"}
+{"prompt":"Make a python list of 5 satellites.","completion":"['Voyager 1', 'Cassini', 'New Horizons', 'Voyager 2', 'Galileo']"}
+{"prompt":"Make a python list of 7 submarines.","completion":"['Seawolf', 'Shark', 'Seal', 'Narwhal', 'Swordfish', 'Nautilus', 'Dolphin']"}
+{"prompt":"Make a python list of 2 mushrooms.","completion":"['porcini', 'shiitake']"}
+{"prompt":"Make a python list of 7 waves.","completion":"['square', 'noise', 'sawtooth', 'cosine', 'sine', 'pulse', 'triangle']"}
+{"prompt":"Make a python list of 9 wishes.","completion":"['a million dollars', 'a new job', 'a new life', 'a new car', 'a new house', 'a new universe', 'a new world', 'a new love', 'a new reality']"}
+{"prompt":"Make a python list of 4 grasslands.","completion":"['steppe', 'prairie', 'pampas', 'savanna']"}
+{"prompt":"Make a python list of 5 fax machines.","completion":"['fax machine 5', 'fax machine 4', 'fax machine 1', 'fax machine 3', 'fax machine 2']"}
+{"prompt":"Make a python list of 1 clouds.","completion":"['clouds']"}
+{"prompt":"Make a python list of 4 photocopying machines.","completion":"['Xerox', 'HP', 'Canon', 'Brother']"}
+{"prompt":"Make a python list of 4 opinions.","completion":"['neutral', 'good', 'bad', 'indifferent']"}
+{"prompt":"Make a python list of 3 molecules.","completion":"['H2O', 'CO2', 'CH4']"}
+{"prompt":"Make a python list of 7 backpacks.","completion":"['blue', 'red', 'purple', 'orange', 'yellow', 'black', 'green']"}
+{"prompt":"Make a python list of 5 TV series.","completion":"['The West Wing', 'The Wire', 'The Sopranos', 'The Office', 'Breaking Bad']"}
+{"prompt":"Make a python list of 6 beaches.","completion":"['Miami', 'Coney Island', 'Cape Cod', 'Santa Cruz', 'Cancun', 'Honolulu']"}
+{"prompt":"Make a python list of 5 flowers.","completion":"['lily', 'daisy', 'orchid', 'rose', 'tulip']"}
+{"prompt":"Make a python list of 7 theories.","completion":"['string theory', 'quantum theory', 'theory of evolution', 'relativity', 'theory of mind', 'chaos theory', 'theory of everything']"}
+{"prompt":"Make a python list of 4 apartments.","completion":"['studio', 'two bedroom', 'one bedroom', 'three bedroom']"}
+{"prompt":"Make a python list of 2 philosophical systems.","completion":"['epicureanism', 'stoicism']"}
+{"prompt":"Make a python list of 3 microphone arrays.","completion":"['cardioid', 'omnidirectional', 'bidirectional']"}
+{"prompt":"Make a python list of 6 clocks.","completion":"['atomic', 'analog', 'digital', 'pendulum', 'sundial', 'water']"}
+{"prompt":"Make a python list of 1 skateboards.","completion":"['skateboard']"}
+{"prompt":"Make a python list of 7 leaves.","completion":"['birch', 'maple', 'elm', 'cherry', 'willow', 'poplar', 'oak']"}
+{"prompt":"Make a python list of 6 printers.","completion":"['Dell', 'Epson', 'HP', 'Brother', 'Lexmark', 'Canon']"}
+{"prompt":"Make a python list of 8 sweaters.","completion":"['yellow', 'black', 'brown', 'orange', 'green', 'purple', 'red', 'blue']"}
+{"prompt":"Make a python list of 5 cars.","completion":"['Toyota', 'Chevy', 'Honda', 'Ford', 'Nissan']"}
+{"prompt":"Make a python list of 5 helicopters.","completion":"['Eurocopter EC135', 'Boeing CH-47 Chinook', 'Sikorsky UH-60 Black Hawk', 'Sikorsky S-76', 'Bell 206']"}
+{"prompt":"Make a python list of 3 modems.","completion":"['DSL', 'cable', 'dial-up']"}
+{"prompt":"Make a python list of 7 umbrellas.","completion":"['pink', 'yellow', 'purple', 'orange', 'red', 'blue', 'green']"}
+{"prompt":"Make a python list of 3 cameras.","completion":"['Nikon', 'Canon', 'Sony']"}
+{"prompt":"Make a python list of 8 snakes.","completion":"['coral snake', 'cobra', 'anaconda', 'viper', 'mamba', 'python', 'boa', 'rattlesnake']"}
+{"prompt":"Make a python list of 9 socks.","completion":"['yellow', 'orange', 'black', 'red', 'green', 'white', 'brown', 'blue', 'purple']"}
+{"prompt":"Make a python list of 3 pots.","completion":"['pot', 'kettle', 'pan']"}
+{"prompt":"Make a python list of 7 magazines.","completion":"['The New York Times', 'The Atlantic', 'The New Yorker', 'The Economist', 'The Washington Post', 'The Wall Street Journal', 'The Guardian']"}
+{"prompt":"Make a python list of 7 inspirations.","completion":"['Mozart', 'Picasso', 'Leonardo', 'Einstein', 'Tesla', 'Dali', 'Van Gogh']"}
+{"prompt":"Make a python list of 6 crustaceans.","completion":"['crayfish', 'shrimp', 'lobster', 'crab', 'barnacle', 'krill']"}
+{"prompt":"Make a python list of 6 feelings.","completion":"['excited', 'confused', 'happy', 'scared', 'sad', 'angry']"}
+{"prompt":"Make a python list of 9 keys.","completion":"['f', 'h', 'a', 'c', 'g', 'i', 'b', 'd', 'e']"}
+{"prompt":"Make a python list of 4 principles.","completion":"['generality', 'simplicity', 'consistency', 'elegance']"}
+{"prompt":"Make a python list of 5 plains.","completion":"['pampa', 'prairie', 'tundra', 'steppe', 'savanna']"}
+{"prompt":"Make a python list of 8 programming languages.","completion":"['Perl', 'Python', 'C#', 'Lisp', 'C', 'C++', 'Java', 'Ruby']"}
+{"prompt":"Make a python list of 7 rocks.","completion":"['obsidian', 'marble', 'quartz', 'sandstone', 'basalt', 'limestone', 'granite']"}
+{"prompt":"Make a python list of 9 pants.","completion":"['khakis', 'slacks', 'corduroys', 'jodhpurs', 'shorts', 'sweatpants', 'chinos', 'jeans', 'cargo pants']"}
+{"prompt":"Make a python list of 9 desks.","completion":"['desk7', 'desk5', 'desk8', 'desk2', 'desk9', 'desk3', 'desk6', 'desk4', 'desk1']"}
+{"prompt":"Make a python list of 8 boots.","completion":"['black', 'red', 'orange', 'yellow', 'purple', 'white', 'blue', 'green']"}
+{"prompt":"Make a python list of 9 coral reefs.","completion":"['Southeast Florida Coral Reef', 'Pulley Ridge, Florida', 'Great Barrier Reef', 'Red Sea Coral Reef', 'Mesoamerican Barrier Reef', 'Andros, Bahamas Barrier Reef', 'Flower Garden Banks, Texas', 'Florida Keys National Marine Sanctuary', 'New Caledonia Barrier Reef']"}
+{"prompt":"Make a python list of 9 bottles.","completion":"['bottle of whiskey', 'bottle of brandy', 'bottle of beer', 'bottle of vodka', 'bottle of gin', 'bottle of wine', 'bottle of scotch', 'bottle of rum', 'bottle of tequila']"}
+{"prompt":"Make a python list of 5 monitors.","completion":"['Samsung', 'Acer', 'Dell', 'HP', 'LG']"}
+{"prompt":"Make a python list of 2 sensations.","completion":"['warm', 'cold']"}
+{"prompt":"Make a python list of 6 assumptions.","completion":"['assumption 3', 'assumption 6', 'assumption 4', 'assumption 2', 'assumption 5', 'assumption 1']"}
+{"prompt":"Make a python list of 7 robots.","completion":"['TARS', 'Rosie', 'Wall-E', 'R2D2', 'Bender', 'C3PO', 'Marvin']"}
+{"prompt":"Make a python list of 6 fears.","completion":"['heights', 'spiders', 'drowning', 'snakes', 'clowns', 'darkness']"}
+{"prompt":"Make a python list of 7 bikes.","completion":"['recumbent', 'mountain bike', 'fixie', 'cruiser', 'unicycle', 'road bike', 'tandem']"}
+{"prompt":"Make a python list of 4 cups.","completion":"['water', 'tea', 'coffee', 'milk']"}
+{"prompt":"Make a python list of 2 values.","completion":"['1', '2']"}
+{"prompt":"Make a python list of 7 conjectures.","completion":"['The Birch and Swinnerton-Dyer Conjecture', 'The Riemann Hypothesis', 'The Collatz Conjecture', 'The Weak Goldbach Conjecture', 'The Goldbach Conjecture', 'The Hodge Conjecture', 'The Twin Prime Conjecture']"}
+{"prompt":"Make a python list of 3 volcanoes.","completion":"['Mount St. Helens', 'Mount Vesuvius', 'Mount Fuji']"}
+{"prompt":"Make a python list of 6 scientists.","completion":"['Galileo', 'Curie', 'Newton', 'Tesla', 'Einstein', 'Darwin']"}
+{"prompt":"Make a python list of 1 jackets.","completion":"['jacket']"}
+{"prompt":"Make a python list of 3 routers.","completion":"['Cisco', 'Arista', 'Juniper']"}
+{"prompt":"Make a python list of 5 bicycles.","completion":"['cruiser', 'recumbent', 'mountain bike', 'road bike', 'tandem']"}
+{"prompt":"Make a python list of 5 islands.","completion":"['Cuba', 'Iceland', 'Hawaii', 'Bermuda', 'Jamaica']"}
+{"prompt":"Make a python list of 3 drones.","completion":"['DJI Inspire 2', 'DJI Phantom 4', 'DJI Mavic Pro']"}
+{"prompt":"Make a python list of 4 movies.","completion":"['The Matrix Revolutions', 'The Matrix Resurrections', 'The Matrix', 'The Matrix Reloaded']"}
+{"prompt":"Make a python list of 4 screens.","completion":"['desktop', 'laptop', 'phone', 'tablet']"}
+{"prompt":"Make a python list of 3 minerals.","completion":"['copper', 'silver', 'gold']"}
+{"prompt":"Make a python list of 5 cords.","completion":"['blue', 'purple', 'yellow', 'red', 'green']"}
+{"prompt":"Make a python list of 2 hubs.","completion":"['hub1', 'hub2']"}
+{"prompt":"Make a python list of 7 sandwiches.","completion":"['peanut butter', 'tuna', 'grilled cheese', 'turkey', 'ham', 'cheese', 'egg salad']"}
+{"prompt":"Make a python list of 8 dishes.","completion":"['sushi', 'pasta', 'ramen', 'curry', 'soup', 'sandwich', 'salad', 'pizza']"}
+{"prompt":"Make a python list of 3 fishes.","completion":"['salmon', 'trout', 'catfish']"}
+{"prompt":"Make a python list of 7 ice caps.","completion":"['West Greenland', 'East Antarctic', 'Antarctic', 'Greenland', 'East Greenland', 'West Antarctic', 'Arctic']"}
+{"prompt":"Make a python list of 3 microscopes.","completion":"['scanning probe microscope', 'light microscope', 'electron microscope']"}
+{"prompt":"Make a python list of 6 TVs.","completion":"['Sony', 'Toshiba', 'Panasonic', 'LG', 'Sharp', 'Samsung']"}
+{"prompt":"Make a python list of 9 insects.","completion":"['moth', 'ant', 'fly', 'beetle', 'bee', 'butterfly', 'cricket', 'dragonfly', 'grasshopper']"}
+{"prompt":"Make a python list of 3 thoughts.","completion":"[\"I'm tired\", \"I'm bored\", \"I'm hungry\"]"}
+{"prompt":"Make a python list of 6 fantasies.","completion":"['telekinesis', 'teleportation', 'immortality', 'flying', 'telepathy', 'invisibility']"}
+{"prompt":"Make a python list of 4 telescopes.","completion":"['VLA', 'Keck', 'ALMA', 'Hubble']"}
+{"prompt":"Make a python list of 6 paintbrushes.","completion":"['encaustic', 'oil', 'watercolor', 'tempera', 'acrylic', 'gouache']"}
+{"prompt":"Make a python list of 4 chocolate bars.","completion":"[\"Hershey's\", 'Ghirardelli', 'Cadbury', 'Lindt']"}
+{"prompt":"Make a python list of 6 sports.","completion":"['baseball', 'hockey', 'basketball', 'football', 'soccer', 'tennis']"}
+{"prompt":"Make a python list of 4 foods.","completion":"['sushi', 'pizza', 'pasta', 'tacos']"}
+{"prompt":"Make a python list of 2 drinks.","completion":"['coffee', 'tea']"}
+{"prompt":"Make a python list of 9 speakers.","completion":"['Jessica', 'Jim', 'Jeff', 'Jane', 'Joe', 'Jenny', 'Judy', 'Jill', 'Jerry']"}
+{"prompt":"Make a python list of 9 buildings.","completion":"['warehouse', 'school', 'condo', 'apartment', 'hotel', 'church', 'house', 'factory', 'office']"}
+{"prompt":"Make a python list of 7 emotions.","completion":"['sad', 'afraid', 'neutral', 'angry', 'disgusted', 'happy', 'surprised']"}
+{"prompt":"Make a python list of 1 rockets.","completion":"['falcon 9']"}
+{"prompt":"Make a python list of 4 spaceships.","completion":"['Enterprise', 'Galactica', 'Millennium Falcon', 'Serenity']"}
+{"prompt":"Make a python list of 4 glaciers.","completion":"['Glacier National Park', 'Wrangell-St. Elias National Park', 'Kenai Fjords National Park', 'Glacier Bay National Park']"}
+{"prompt":"Make a python list of 3 fruit.","completion":"['apple', 'banana', 'orange']"}
+{"prompt":"Make a python list of 4 pairs of shoes.","completion":"['loafers', 'sneakers', 'sandals', 'boots']"}
+{"prompt":"Make a python list of 2 spoons.","completion":"['teaspoon', 'tablespoon']"}
+{"prompt":"Make a python list of 7 cables.","completion":"['VGA', 'USB', 'Thunderbolt', 'DisplayPort', 'HDMI', 'DVI', 'Ethernet']"}
+{"prompt":"Make a python list of 1 senses.","completion":"['sight']"}
+{"prompt":"Make a python list of 6 machines.","completion":"['car', 'microwave', 'computer', 'dishwasher', 'vacuum cleaner', 'washing machine']"}
+{"prompt":"Make a python list of 8 laws.","completion":"['law of conservation of momentum', 'law of conservation of charge', 'law of conservation of mass', 'law of conservation of electric charge', 'law of conservation of lepton number', 'law of conservation of energy', 'law of conservation of linear momentum', 'law of conservation of angular momentum']"}
+{"prompt":"Make a python list of 7 shoes.","completion":"['sandals', 'clogs', 'heels', 'loafers', 'moccasins', 'boots', 'sneakers']"}
+{"prompt":"Make a python list of 2 continents.","completion":"['Africa', 'Asia']"}
+{"prompt":"Make a python list of 6 planes.","completion":"['747', '787', '757', '767', '777', '737']"}
+{"prompt":"Make a python list of 9 canyons.","completion":"['Black Canyon', 'Canyon de Chelly', 'Bryce Canyon', 'Grand Canyon', 'Canyon of the Eagles', 'Canyon of the Kings', 'Canyonlands', 'Antelope Canyon', 'Canyon of the Whales']"}
+{"prompt":"Make a python list of 8 forests.","completion":"['Amazon', 'Kinabalu', 'Valdivian', 'Boreal', 'Xishuangbanna', 'Congo', 'Tongass', 'Daintree']"}
+{"prompt":"Make a python list of 7 waterfalls.","completion":"['Iguazu Falls', 'Kaieteur Falls', 'Niagara Falls', 'Victoria Falls', 'Angel Falls', 'Yosemite Falls', 'Yellowstone Falls']"}
+{"prompt":"Make a python list of 5 worldviews.","completion":"['materialism', 'pluralism', 'idealism', 'monism', 'dualism']"}
+{"prompt":"Make a python list of 2 counties.","completion":"['San Mateo', 'Santa Clara']"}
+{"prompt":"Make a python list of 4 turtles.","completion":"['terrapin', 'turtle', 'tortoise', 'sea turtle']"}
+{"prompt":"Make a python list of 7 jewelry.","completion":"['brooch', 'bracelet', 'cufflinks', 'earrings', 'ring', 'watch', 'necklace']"}
+{"prompt":"Make a python list of 9 keyboards.","completion":"['qwertz', 'workman', 'ne', 'qwerty', 'azerty', 'jcukem', 'maltron', 'dvorak', 'colemak']"}
+{"prompt":"Make a python list of 9 elements.","completion":"['helium', 'boron', 'hydrogen', 'beryllium', 'nitrogen', 'lithium', 'carbon', 'oxygen', 'fluorine']"}
+{"prompt":"Make a python list of 8 sunglasses.","completion":"['aviator', 'square', 'cat eye', 'round', 'butterfly', 'wayfarer', 'rimless', 'oversized']"}
+{"prompt":"Make a python list of 4 animals.","completion":"['elephant', 'cat', 'dog', 'horse']"}
+{"prompt":"Make a python list of 8 t-shirts.","completion":"['red', 'pink', 'blue', 'green', 'yellow', 'black', 'orange', 'purple']"}
+{"prompt":"Make a python list of 2 attitudes.","completion":"['negative', 'positive']"}
+{"prompt":"Make a python list of 6 networks.","completion":"['facebook', 'tumblr', 'reddit', 'twitter', 'instagram', 'linkedin']"}
+{"prompt":"Make a python list of 4 pans.","completion":"['wok', 'skillet', 'frying pan', 'sauce pan']"}
+{"prompt":"Make a python list of 4 people.","completion":"['Joe', 'John', 'Jane', 'Jill']"}
+{"prompt":"Make a python list of 7 nations.","completion":"['Mexico', 'Haiti', 'Cuba', 'Jamaica', 'USA', 'Dominican Republic', 'Canada']"}
+{"prompt":"Make a python list of 7 watches.","completion":"['Rolex', 'Casio', 'Omega', 'Timex', 'Citizen', 'Seiko', 'Patek Philippe']"}
+{"prompt":"Make a python list of 3 headsets.","completion":"['Beats', 'Sony', 'Bose']"}
+{"prompt":"Make a python list of 3 motorbikes.","completion":"['Honda', 'Yamaha', 'Harley Davidson']"}
+{"prompt":"Make a python list of 9 headphones.","completion":"['Sennheiser', 'Grado', 'Bose', 'Bowers & Wilkins', 'Beats', 'Shure', 'Sony', 'Audio-Technica', 'V-Moda']"}
+{"prompt":"Make a python list of 9 experiences.","completion":"['happy', 'surprised', 'disgusted', 'scared', 'sad', 'angry', 'confused', 'bored', 'excited']"}
+{"prompt":"Make a python list of 9 pancakes.","completion":"['plain', 'peanut butter', 'apple', 'banana', 'strawberry', 'cinnamon', 'buttermilk', 'blueberry', 'chocolate chip']"}
+{"prompt":"Make a python list of 3 pens.","completion":"['marker', 'pencil', 'pen']"}
+{"prompt":"Make a python list of 5 wetlands.","completion":"['fen', 'bog', 'marsh', 'mangrove', 'swamp']"}
+{"prompt":"Make a python list of 9 goals.","completion":"['get a degree', 'get a promotion', 'get a new spouse', 'get a new life', 'get a new car', 'get a raise', 'lose weight', 'get a job', 'get a new house']"}
+{"prompt":"Make a python list of 8 refrigerators.","completion":"['Maytag', 'Kenmore', 'LG', 'Bosch', 'Samsung', 'GE', 'Whirlpool', 'Frigidaire']"}
+{"prompt":"Make a python list of 4 copiers.","completion":"['duplicator', 'xerox', 'mimeograph', 'photocopier']"}
+{"prompt":"Make a python list of 8 artists.","completion":"['Raphael', 'Monet', 'Van Gogh', 'Picasso', 'Michelangelo', 'Rembrandt', 'Dali', 'Renoir']"}
+{"prompt":"Make a python list of 9 games.","completion":"['poker', 'go', 'dominoes', 'bridge', 'backgammon', 'chess', 'checkers', 'mahjong', 'scrabble']"}
+{"prompt":"Make a python list of 4 guitars.","completion":"['Rickenbacker 360', 'Gibson SG', 'Gibson Les Paul', 'Fender Stratocaster']"}
+{"prompt":"Make a python list of 2 amphibians.","completion":"['frog', 'salamander']"}
+{"prompt":"Make a python list of 2 ships.","completion":"['Hindenburg', 'Titanic']"}
+{"prompt":"Make a python list of 6 dreams.","completion":"['being late', 'being naked in public', 'flying', 'being chased', 'being lost', 'falling']"}
+{"prompt":"Make a python list of 9 radiators.","completion":"['radiator 2', 'radiator 9', 'radiator 1', 'radiator 4', 'radiator 6', 'radiator 5', 'radiator 3', 'radiator 7', 'radiator 8']"}
+{"prompt":"Make a python list of 3 states.","completion":"['New York', 'California', 'Texas']"}
+{"prompt":"Make a python list of 3 doors.","completion":"['back door', 'garage door', 'front door']"}
+{"prompt":"Make a python list of 4 furniture.","completion":"['table', 'bed', 'chair', 'desk']"}
+{"prompt":"Make a python list of 8 metals.","completion":"['iron', 'gold', 'copper', 'lead', 'zinc', 'tin', 'silver', 'mercury']"}
+{"prompt":"Make a python list of 8 mugs.","completion":"['mug8', 'mug5', 'mug1', 'mug4', 'mug2', 'mug7', 'mug6', 'mug3']"}
+{"prompt":"Make a python list of 3 crayons.","completion":"['green', 'red', 'blue']"}
+{"prompt":"Make a python list of 3 coins.","completion":"['penny', 'dime', 'nickel']"}
+{"prompt":"Make a python list of 6 telephones.","completion":"['rotary', 'cellular', 'smart', 'landline', 'cordless', 'payphone']"}
+{"prompt":"Make a python list of 6 philosophies.","completion":"['existentialism', 'buddhism', 'utilitarianism', 'stoicism', 'nihilism', 'epicureanism']"}
+{"prompt":"Make a python list of 2 bridges.","completion":"['Brooklyn Bridge', 'Golden Gate Bridge']"}
+{"prompt":"Make a python list of 1 notions.","completion":"['notion']"}
+{"prompt":"Make a python list of 3 mice.","completion":"['Mickey', 'Minnie', 'Mighty']"}
+{"prompt":"Make a python list of 1 tablets.","completion":"['tablet']"}
+{"prompt":"Make a python list of 4 televisions.","completion":"['TV', 'tube', 'television', 'boob tube']"}
+{"prompt":"Make a python list of 8 computer arrays.","completion":"['set', 'tuple', 'dictionary', 'queue', 'deque', 'list', 'array', 'stack']"}
+{"prompt":"Make a python list of 3 impressions.","completion":"['impression 3', 'impression 1', 'impression 2']"}
+{"prompt":"Make a python list of 5 phones.","completion":"['Nexus', 'Lumia', 'Pixel', 'iPhone', 'Galaxy']"}
+{"prompt":"Make a python list of 4 lizards.","completion":"['iguana', 'chameleon', 'monitor', 'gecko']"}
+{"prompt":"Make a python list of 8 deserts.","completion":"['Sonoran', 'Taklamakan', 'Namib', 'Great Victoria', 'Atacama', 'Gobi', 'Sahara', 'Kalahari']"}
+{"prompt":"Make a python list of 3 rivers.","completion":"['Nile', 'Mississippi', 'Amazon']"}
+{"prompt":"Make a python list of 4 speculations.","completion":"['ghosts', 'time travel', 'aliens', 'parallel universes']"}
+{"prompt":"Make a python list of 4 soups.","completion":"['chicken noodle', 'tomato', 'pho', 'miso']"}
+{"prompt":"Make a python list of 5 mammals.","completion":"['horse', 'elephant', 'cat', 'human', 'dog']"}
+{"prompt":"Make a python list of 7 sculptures.","completion":"['The Discus Thrower', 'David', 'The Kiss', 'Venus de Milo', 'The Winged Victory of Samothrace', 'The Thinker', 'The Dying Gaul']"}
+{"prompt":"Make a python list of 5 perceptions.","completion":"['touch', 'taste', 'sound', 'sight', 'smell']"}
+{"prompt":"Make a python list of 4 sneakers.","completion":"['Puma', 'Nike', 'Adidas', 'Reebok']"}
+{"prompt":"Make a python list of 7 films.","completion":"['The Matrix Revisited', 'The Matrix Reloaded', 'The Matrix Reaction', 'The Matrix Revolutions', 'The Matrix', 'The Animatrix', 'The Matrix Resurrections']"}
+{"prompt":"Make a python list of 3 concepts.","completion":"['concept 3', 'concept 1', 'concept 2']"}
+{"prompt":"Make a python list of 6 vegetables.","completion":"['onion', 'corn', 'tomato', 'potato', 'pepper', 'carrot']"}
+{"prompt":"Make a python list of 7 reptiles.","completion":"['snake', 'crocodile', 'turtle', 'iguana', 'chameleon', 'gecko', 'lizard']"}
+{"prompt":"Make a python list of 4 lamps.","completion":"['floor lamp', 'ceiling lamp', 'table lamp', 'desk lamp']"}
+{"prompt":"Make a python list of 7 cities.","completion":"['Beijing', 'Moscow', 'Tokyo', 'New York', 'Paris', 'London', 'Rio de Janeiro']"}
+{"prompt":"Make a python list of 4 plates.","completion":"['dessert plate', 'salad plate', 'dinner plate', 'soup bowl']"}
+{"prompt":"Make a python list of 5 mindsets.","completion":"['closed', 'learning', 'growth', 'fixed', 'open']"}
+{"prompt":"Make a python list of 5 houses.","completion":"['abode', 'house', 'dwelling', 'home', 'residence']"}
+{"prompt":"Make a python list of 2 perspectives.","completion":"['third person', 'first person']"}
+{"prompt":"Make a python list of 6 truths.","completion":"['the moon is cold', 'the sun is hot', 'the earth is round', 'the grass is green', 'the universe is infinite', 'the sky is blue']"}
+{"prompt":"Make a python list of 7 shirts.","completion":"['red', 'pink', 'green', 'orange', 'yellow', 'purple', 'blue']"}
+{"prompt":"Make a python list of 2 memories.","completion":"['first kiss', 'first day of school']"}
+{"prompt":"Make a python list of 9 fruits.","completion":"['pear', 'apple', 'banana', 'peach', 'strawberry', 'blueberry', 'orange', 'grape', 'raspberry']"}
+{"prompt":"Make a python list of 2 trams.","completion":"['tram 1', 'tram 2']"}
+{"prompt":"Make a python list of 5 hypotheses.","completion":"['the earth is a pyramid', 'the earth is round', 'the earth is a sphere', 'the earth is flat', 'the earth is a cube']"}
+{"prompt":"Make a python list of 5 glasses.","completion":"['purple', 'blue', 'green', 'yellow', 'red']"}
+{"prompt":"Make a python list of 8 ideologies.","completion":"['communist', 'liberal', 'conservative', 'green', 'libertarian', 'anarchist', 'socialist', 'fascist']"}
+{"prompt":"Make a python list of 6 outlooks.","completion":"['foggy', 'rainy', 'snowy', 'stormy', 'sunny', 'cloudy']"}
+{"prompt":"Make a python list of 5 tractors.","completion":"['New Holland', 'Case IH', 'John Deere', 'Massey Ferguson', 'Fendt']"}
+{"prompt":"Make a python list of 4 paintings.","completion":"['The Starry Night', 'The Scream', 'The Sistine Chapel', 'The Persistence of Memory']"}
+{"prompt":"Make a python list of 1 photographs.","completion":"['photographs']"}
+{"prompt":"Make a python list of 8 mountains.","completion":"['Mt. Kilimanjaro', 'Mt. Fuji', 'Mt. Aconcagua', 'Mt. McKinley', 'Mt. Everest', 'Mt. Elbrus', 'Mt. Vinson', 'Mt. Puncak Jaya']"}
+{"prompt":"Make a python list of 7 couches.","completion":"['loveseat', 'divan', 'sofa', 'davenport', 'ottoman', 'couch', 'chaise']"}
+{"prompt":"Make a python list of 5 countries.","completion":"['Cuba', 'Mexico', 'Canada', 'USA', 'Brazil']"}
+{"prompt":"Make a python list of 6 washing machines.","completion":"['Maytag', 'GE', 'Whirlpool', 'Samsung', 'LG', 'Kenmore']"}
+{"prompt":"Make a python list of 4 arachnids.","completion":"['scorpion', 'spider', 'mite', 'tick']"}
+{"prompt":"Make a python list of 3 cats.","completion":"['Snowball', 'Snowy', 'Snowflake']"}
+{"prompt":"Make a python list of 9 imaginings.","completion":"['a world without fear', 'a world without suffering', 'a world without ignorance', 'a world without war', 'a world without greed', 'a world without poverty', 'a world without hate', 'a world without hunger', 'a world without disease']"}
+{"prompt":"Make a python list of 3 boats.","completion":"['sailboat', 'motorboat', 'rowboat']"}
+{"prompt":"Make a python list of 6 lights.","completion":"['green', 'red', 'orange', 'yellow', 'blue', 'purple']"}
+{"prompt":"Make a python list of 9 cranes.","completion":"['himalayan', 'blue', 'brolga', 'white-naped', 'whooping', 'red-crowned', 'black-necked', 'sandhill', 'demoiselle']"}
+{"prompt":"Make a python list of 3 airplanes.","completion":"['Airbus A380', 'Boeing 747', 'Cessna 172']"}
+{"prompt":"Make a python list of 7 beliefs.","completion":"['I believe in the power of the human soul', 'I believe in the power of the human heart', 'I believe in the power of the human body', 'I believe in the power of the human spirit', 'I believe in the power of the human will', 'I believe in the power of the human mind', 'I believe in the power of the human imagination']"}
+{"prompt":"Make a python list of 5 microphones.","completion":"['Shure SM58', 'Neumann U87', 'Sennheiser MD421', 'Rode NT1', 'AKG C414']"}
+{"prompt":"Make a python list of 7 newspapers.","completion":"['The New York Times', 'The Washington Post', 'The Boston Globe', 'The Chicago Tribune', 'The Wall Street Journal', 'The Houston Chronicle', 'The Los Angeles Times']"}
+{"prompt":"Make a python list of 1 papers.","completion":"['paper']"}
+{"prompt":"Make a python list of 3 lakes.","completion":"['Lake Huron', 'Lake Michigan', 'Lake Superior']"}
+{"prompt":"Make a python list of 8 trucks.","completion":"['Toyota', 'Mazda', 'Nissan', 'Honda', 'Ford', 'Volvo', 'Chevy', 'Dodge']"}
